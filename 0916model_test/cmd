@@ -1,0 +1,8 @@
+conda create -n llama python=3.10 -y
+conda activate llama
+pip install vllm
+pip install accelerate
+python -m vllm.entrypoints.openai.api_server --model meta-llama/Meta-Llama-3.1-8B
+
+
+python -m vllm.entrypoints.openai.api_server --model meta-llama/Meta-Llama-3.1-70B-Instruct --tensor-parallel-size 8
