@@ -87,7 +87,7 @@ def gen_masked_prediction_problem_prompts(predicted_text_list, problems, tokeniz
     return prompt_list, masked_reasons
 
 
-def parse_Q_R_A_prediction(predicted_texts, promblems):
+def parse_Q_R_A_prediction(predicted_texts, problems):
     predicted_vals = []
     good_records = []
     for i in range(len(predicted_texts)):
