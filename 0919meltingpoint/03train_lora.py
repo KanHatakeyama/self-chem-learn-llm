@@ -47,7 +47,8 @@ lora_model.print_trainable_parameters()
 
 # Load the data
 jsonl_path = "data/20240919152121_llm_gen.jsonl"
-error_threshold = 0.1
+jsonl_path = "data/initial_train_data/20240919161042_llm_gen.jsonl"
+error_threshold = 0.05
 max_records = 20000
 
 df = pd.read_json(jsonl_path, lines=True)
@@ -108,13 +109,13 @@ args = TrainingArguments(
     gradient_accumulation_steps=32,
     per_device_train_batch_size=4,
     save_strategy="steps",
-    save_steps=2,
+    save_steps=20,
     logging_steps=1,
     lr_scheduler_type="cosine",
     max_grad_norm=1.0,
     warmup_ratio=0.03,
     weight_decay=0.001,
-    learning_rate=1e-4,
+    learning_rate=5e-5,
     # save_total_limit=1,
     fp16=True,
 )
