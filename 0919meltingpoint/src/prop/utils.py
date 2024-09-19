@@ -85,3 +85,41 @@ def gen_masked_prediction_problem_prompts(predicted_text_list, problems, tokeniz
         prompt = prompt + "assistant\n\n#Prediction\n"
         prompt_list.append(prompt)
     return prompt_list, masked_reasons
+
+
+def parse_Q_R_A_prediction(predicted_texts, promblems):
+    predicted_vals = []
+    good_records = []
+    for i in range(len(predicted_texts)):
+        pred = predicted_texts[i].split("#Prediction")[-1]
+        pred = pred.split(" [")[0].strip()
+
+        strip_list = [
+            "kJ/mol",
+            "°C", " oC", " g/cm3", " g/cm", " eV", " cm^3/mol", " × 10^-6",
+        ]
+        for s in strip_list:
+            pred = pred.split(s)[0].strip()
+
+        if " " in pred:
+            pred = pred.split(" ")[-1]
+        if "\n" in pred:
+            pred = pred.split("\n")[-1]
+        if "**" in pred:
+            pred = pred.split("**")[-1]
+
+        predicted_vals.append(pred)
+
+        problems[i]["predicted"] = pred
+        problems[i]["predicted_text"] = predicted_texts[i]
+        try:
+            problems[i]["Value"] = float(problems[i]["Value"])
+            error = abs((problems[i]["Value"]-float(problems[i]
+                        ["predicted"]))/problems[i]["Value"])
+            problems[i]["error_rate"] = error
+            good_records.append(problems[i])
+        except Exception as e:
+            print(e)
+            continue
+
+    return good_records

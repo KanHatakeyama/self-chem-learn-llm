@@ -108,7 +108,7 @@ args = TrainingArguments(
     gradient_accumulation_steps=32,
     per_device_train_batch_size=4,
     save_strategy="steps",
-    save_steps=5,
+    save_steps=2,
     logging_steps=1,
     lr_scheduler_type="cosine",
     max_grad_norm=1.0,
@@ -130,7 +130,7 @@ trainer = SFTTrainer(
     args=args,
     train_dataset=ds,
     formatting_func=formatting_prompts_func,
-    max_seq_length=1024,
+    max_seq_length=512,
     data_collator=collator,
 )
 
