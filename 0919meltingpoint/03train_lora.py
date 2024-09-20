@@ -46,12 +46,25 @@ lora_model.print_trainable_parameters()
 # %%
 
 # Load the data
-jsonl_path = "data/20240919152121_llm_gen.jsonl"
-jsonl_path = "data/initial_train_data/20240919161042_llm_gen.jsonl"
-error_threshold = 0.05
-max_records = 20000
+# jsonl_path = "data/20240919152121_llm_gen.jsonl"
+# jsonl_path = "data/initial_train_data/20240919161042_llm_gen.jsonl"
 
-df = pd.read_json(jsonl_path, lines=True)
+error_threshold = 0.05
+max_records = 200000
+jsonl_path_list = [
+    "/data/hatakeyama/self-loop/0919meltingpoint/data/initial_train_data/20240919213322_llm_gen.jsonl",
+    "/data/hatakeyama/self-loop/0919meltingpoint/data/initial_train_data/20240919161042_llm_gen.jsonl",
+]
+# Initialize an empty DataFrame
+df = pd.DataFrame()
+
+# Read each JSONL file and concatenate the results
+for jsonl_path in jsonl_path_list:
+    temp_df = pd.read_json(jsonl_path, lines=True)
+    df = pd.concat([df, temp_df], ignore_index=True)
+# df = pd.read_json(jsonl_path, lines=True)
+
+
 df = df.drop(columns=["record", "prompt"])
 df = df.sort_values(by="error_rate")
 df["cond"] = df["CompoundName"]+" "+df["SMILES"]+" "+df["Property"]
@@ -104,12 +117,12 @@ def formatting_prompts_func(example):
 # SFTTrainerはTrainingArgumentsを使用することができる。
 # 指定しない場合、TrainingArgumentsのデフォルトが指定される。
 args = TrainingArguments(
-    output_dir=f'./output0919_threshold_{error_threshold}_lora_kqvo_proj',
+    output_dir=f'./output0920_threshold_{error_threshold}_lora_kqvo_proj',
     num_train_epochs=1,
     gradient_accumulation_steps=32,
     per_device_train_batch_size=4,
     save_strategy="steps",
-    save_steps=20,
+    save_steps=40,
     logging_steps=1,
     lr_scheduler_type="cosine",
     max_grad_norm=1.0,
