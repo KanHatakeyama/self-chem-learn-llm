@@ -98,7 +98,8 @@ predictions = []
 batch_size = 1000
 
 for i in tqdm(range(0, len(ds), batch_size)):
-    batch = ds.select(range(i, i+batch_size))
+    max_i = min(i+batch_size, len(ds))
+    batch = ds.select(range(i, max_i))
     prompts = []
     for record in batch:
         prompt, actual_value = gen_problem(record)
