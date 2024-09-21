@@ -39,7 +39,7 @@ train_ds[0]
 
 # %%
 
-batch_size = 100
+batch_size = 2000
 
 target_ds = train_ds
 
