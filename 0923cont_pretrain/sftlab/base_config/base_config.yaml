@@ -1,0 +1,4 @@
+output_dir: /data/hatakeyama/self-loop/0923cont_pretrain/sftlab/output
+hf_cache_dir: ~/.cache/huggingface/
+wandb:
+  entity: kanhatakeyamas
