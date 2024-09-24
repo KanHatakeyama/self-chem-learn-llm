@@ -76,7 +76,7 @@ tokenizer = transformers.AutoTokenizer.from_pretrained(model_id)
 # %%
 
 ds = load_dataset("kanhatakeyama/material-properties", split="train")
-# ds=ds.shuffle()
+ds = ds.shuffle(seed=1)
 
 # %%
 
