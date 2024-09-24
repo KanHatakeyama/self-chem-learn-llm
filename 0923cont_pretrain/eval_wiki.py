@@ -4,6 +4,8 @@ python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_
 
 conda activate llama
 
+python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_parallel_size 8
+
 export CUDA_VISIBLE_DEVICES=0
 python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0923cont_pretrain/sftlab/output/sftlab-experiments/test/1-llama3_1_8b-zero1/checkpoint-130" --tensor_parallel_size 1
 
@@ -125,9 +127,9 @@ if mode == "test":
 else:
     target_ds = train_ds
 
-for i in tqdm(range(0, len(ds), batch_size)):
-    max_i = min(i+batch_size, len(train_ds))
-    batch = ds.select(range(i, max_i))
+for i in tqdm(range(0, len(target_ds), batch_size)):
+    max_i = min(i+batch_size, len(target_ds))
+    batch = target_ds.select(range(i, max_i))
     prompts = []
     for record in batch:
         prompt, actual_value = gen_problem(record)
