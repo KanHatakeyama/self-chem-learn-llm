@@ -30,7 +30,7 @@ exp_params:
   per_device_eval_batch_size: 1
   gradient_accumulation_steps: 256
   save_strategy: steps
-  save_steps: 1000
+  save_steps: 130
   logging_steps: 1
   learning_rate: 5e-5
   warmup_ratio: 0.1
