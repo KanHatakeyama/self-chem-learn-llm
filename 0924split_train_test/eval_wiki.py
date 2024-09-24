@@ -35,6 +35,12 @@ export CUDA_VISIBLE_DEVICES=4
 python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-48" --tensor_parallel_size 1
 python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-48" --tensor_parallel_size 1 --mode train
 
+conda activate llama
+export CUDA_VISIBLE_DEVICES=5
+python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_parallel_size 1
+python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_parallel_size 1 --mode train
+
+
 
 """
 
