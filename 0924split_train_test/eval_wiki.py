@@ -8,39 +8,38 @@ python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=0
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-10" --tensor_parallel_size 1
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-10" --tensor_parallel_size 1 --mode train
-
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-20" --tensor_parallel_size 1
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-20" --tensor_parallel_size 1 --mode train
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=1
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-20" --tensor_parallel_size 1
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-20" --tensor_parallel_size 1 --mode train
-
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-40" --tensor_parallel_size 1
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-40" --tensor_parallel_size 1 --mode train
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=2
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-30" --tensor_parallel_size 1
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-30" --tensor_parallel_size 1 --mode train
-
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-60" --tensor_parallel_size 1
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-60" --tensor_parallel_size 1 --mode train
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=3
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-40" --tensor_parallel_size 1
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-40" --tensor_parallel_size 1 --mode train
-
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-80" --tensor_parallel_size 1
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-80" --tensor_parallel_size 1 --mode train
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=4
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-48" --tensor_parallel_size 1
-python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/output/checkpoint-48" --tensor_parallel_size 1 --mode train
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-97" --tensor_parallel_size 1
+python eval_wiki.py --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/test/1/output/sftlab-experiments/test/1-llama3_1_8b_2-zero1/checkpoint-97" --tensor_parallel_size 1 --mode train
 
-conda activate llama
 export CUDA_VISIBLE_DEVICES=5
 python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_parallel_size 1
 python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_parallel_size 1 --mode train
 
 
+
+#70B
+python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-70B-Instruct" --tensor_parallel_size 8
+python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-70B-Instruct" --tensor_parallel_size 8 --mode train
 
 """
 
@@ -165,7 +164,7 @@ for i in tqdm(range(0, len(target_ds), batch_size)):
     # break
 
 # %%
-os.makedirs("eval_results", exist_ok=True)
-save_path = f"eval_results/{model_id.replace('/','_')}_{mode}.json"
+os.makedirs("eval_results2", exist_ok=True)
+save_path = f"eval_results2/{model_id.replace('/','_')}_{mode}.json"
 with open(save_path, "w") as f:
     json.dump(predictions, f, indent=2)
