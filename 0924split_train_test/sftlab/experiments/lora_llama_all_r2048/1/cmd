@@ -1,0 +1,14 @@
+
+conda activate sft
+export LD_LIBRARY_PATH=/home/hatakeyama/miniconda3/envs/sft/lib/python3.11/site-packages/nvidia/nvjitlink/lib:$LD_LIBRARY_PATH
+
+cd /data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r512/1
+python run.py llama3_1_8b_5_lora_full_r512.yaml --accelerate_config zero1.yaml
+
+cd /data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r1024/1
+python run.py llama3_1_8b_5_lora_full_r1024.yaml --accelerate_config zero1.yaml
+
+cd /data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r2048/1
+python run.py llama3_1_8b_5_lora_full_r2048.yaml --accelerate_config zero1.yaml
+
+
