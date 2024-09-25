@@ -59,6 +59,8 @@ parser.add_argument('--tensor_parallel_size', type=int,
                     default=1, help='テンソルパラレルサイズ（デフォルトは1）')
 parser.add_argument('--mode', type=str,
                     default="test", help='test or train')
+parser.add_argument('--out_path', type=str,
+                    default="eval_results", help='output dir')
 
 
 args = parser.parse_args()
@@ -66,6 +68,7 @@ args = parser.parse_args()
 mode = args.mode
 model_id = args.model_id
 tensor_parallel_size = args.tensor_parallel_size
+out_path = args.out_path
 
 # トークナイザーとモデルの準備
 model = LLM(
@@ -164,7 +167,7 @@ for i in tqdm(range(0, len(target_ds), batch_size)):
     # break
 
 # %%
-os.makedirs("eval_results2", exist_ok=True)
-save_path = f"eval_results2/{model_id.replace('/','_')}_{mode}.json"
+os.makedirs(out_path, exist_ok=True)
+save_path = f"out_path/{model_id.replace('/','_')}_{mode}.json"
 with open(save_path, "w") as f:
     json.dump(predictions, f, indent=2)

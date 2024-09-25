@@ -1,0 +1,2002 @@
+[
+  {
+    "CompName": "unknown",
+    "SMILES": "CCC",
+    "Property": "Ionization Energy",
+    "Value": 11.07,
+    "unit": "[eV]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "6.2",
+    "predicted_text": "#Prediction\n6.2\n\n#Reason\nTo predict the ionization energy of the given compound, we need to consider its molecular structure. The SMILES notation \"CCC\" represents a molecule with three carbon atoms bonded in a chain. This is likely a simple alkane, which has a relatively low ionization energy due to its stable and symmetrical molecular structure.\n\nIonization energy is the energy required to remove an electron from a molecule, and it is influenced by the molecular structure, particularly the electronegativity of the atoms and the molecular orbital configuration. In the case of a simple alkane like the one represented by the SMILES notation \"CCC\", the ionization energy is relatively low due to the low electronegativity of the carbon atoms and the lack of electron-withdrawing or electron-donating groups.\n\nBased on this analysis, a predicted ionization energy of 6.2 eV is reasonable for this compound."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(C)O[N+](=O)[O-]",
+    "Property": "Melting temperature",
+    "Value": -82.5,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation CC(C)O[N+](=O)[O-] is a nitroalkane. Nitroalkanes typically have low melting temperatures due to their low intermolecular forces. The melting temperature of nitroalkanes generally ranges from -50 to -20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C=CCO",
+    "Property": "Density",
+    "Value": 0.85,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.74",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure. The SMILES notation \"C=CCO\" represents a molecule with a carbon-carbon double bond and a carbon-oxygen single bond. This suggests that the compound is an alkene with an ether functional group.\n\n#Prediction\n0.74"
+  },
+  {
+    "CompName": "Propylene glycol",
+    "SMILES": "CC(O)CO",
+    "Property": "Viscosity",
+    "Value": 42.0,
+    "unit": "[mPas]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nTo predict the viscosity of Propylene glycol, we need to consider its molecular structure and properties. Propylene glycol is a polar molecule with a molecular weight of 76.09 g/mol. It has a relatively low molecular weight and a moderate boiling temperature of 187.6\u00b0C. \n\nThe viscosity of a substance is influenced by its molecular weight, boiling temperature, and intermolecular forces. In this case, the moderate boiling temperature and the presence of polar groups in the molecule suggest that Propylene glycol has a relatively low viscosity.\n\nBased on the available data, the predicted viscosity of Propylene glycol is 25."
+  },
+  {
+    "CompName": "Lead(II) chloride",
+    "SMILES": "Cl[Pb]Cl",
+    "Property": "Boiling temperature",
+    "Value": 950.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "734",
+    "predicted_text": "#Prediction\n# 734\n\n#Reason\nThe boiling temperature of Lead(II) chloride can be predicted using its SMILES notation. The SMILES notation [ClPbCl] indicates that it is a compound with a lead atom bonded to two chlorine atoms. Lead(II) chloride is a known compound with a melting temperature of 559.7\u00b0C and a boiling temperature of 950\u00b0C. However, the exact boiling temperature can vary depending on the source and conditions. Based on general knowledge, the predicted boiling temperature is 734\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(CN)N",
+    "Property": "Flash temperature",
+    "Value": 33.88888889,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideapredictionfortheFlashtemperatureofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimateit.",
+    "predicted_text": "I can't provide a prediction for the Flash temperature of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the Flash temperature of the compound with the SMILES notation C(CN)N, we need to consider its structure and properties. The SMILES notation suggests that the compound contains a carbon atom bonded to a nitrogen atom, which is also bonded to another carbon atom. This structure indicates that the compound is likely an organic compound, possibly an amine.\n\nThe Flash temperature of a compound is the temperature at which it changes state from a liquid to a gas. It is an important property in chemistry, especially in the context of handling and storing chemicals.\n\nTo estimate the Flash temperature, we would typically need to consider the compound's molecular weight, boiling temperature, and other physical properties. However, without more specific information about the compound, it is challenging to provide an accurate prediction.\n\nIf you have more information about the compound, such as its molecular weight, boiling temperature, or other relevant properties, I may be able to provide a more accurate prediction."
+  },
+  {
+    "CompName": "Cyclopentadienyliron dicarbonyl dimer",
+    "SMILES": "[C-]#[O+].[C-]#[O+].c1ccc[cH-]1.[Fe+][C-]=O.c1ccc[cH-]1.[Fe+][C-]=O",
+    "Property": "Dipole Moment",
+    "Value": 0.0,
+    "unit": "[debye]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.5",
+    "predicted_text": "#Prediction\n1.5\n\n#Reason\nTo predict the dipole moment of Cyclopentadienyliron dicarbonyl dimer, we need to consider the molecular structure and the properties of its components. The compound consists of two iron atoms, each bonded to a cyclopentadienyl ring and a carbonyl group. The iron atoms are also bonded to each other.\n\nThe dipole moment is a measure of the separation of positive and negative electric charge within a molecule. In this case, the cyclopentadienyl rings and the carbonyl groups are likely to have a significant impact on the dipole moment.\n\nThe cyclopentadienyl rings are planar and have a high degree of symmetry, which suggests that they may not contribute significantly to the dipole moment. However, the carbonyl groups are polar and have a significant dipole moment.\n\nThe iron atoms are also polar, with a partial positive charge on the iron atom and a partial negative charge on the carbonyl group. The bond between the iron atoms is likely to be polar, which will also contribute to the dipole moment.\n\nConsidering these factors, we can estimate the dipole moment of Cyclopentadienyliron dicarbonyl dimer to be around 1.5 debye."
+  },
+  {
+    "CompName": "VX (nerve agent)",
+    "SMILES": "CCOP(C)(=O)SCCN(C(C)C)C(C)C",
+    "Property": "Vapor pressure",
+    "Value": 9e-05,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideapredictionofthevaporpressureofVX(nerveagent).IsthereanythingelseIcanhelpyouwith?",
+    "predicted_text": "I can't provide a prediction of the vapor pressure of VX (nerve agent). Is there anything else I can help you with?"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "O=S=O",
+    "Property": "Density",
+    "Value": 0.002927,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.47",
+    "predicted_text": "#Prediction\n1.47\n\n#Reason\nThe compound with the SMILES notation \"O=S=O\" is sulfur dioxide. The density of sulfur dioxide is 1.47 g/cm3."
+  },
+  {
+    "CompName": "Petroleum ether",
+    "SMILES": null,
+    "Property": "Viscosity",
+    "Value": 0.46,
+    "unit": "[mPas]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nUnfortunately, without a specific SMILES or molecular structure for Petroleum ether, it's challenging to accurately predict its viscosity. Petroleum ether is a mixture of hydrocarbons, and its viscosity can vary depending on the specific composition and boiling range. However, I can provide a general range for the viscosity of petroleum ether.\n\nPetroleum ether typically has a viscosity in the range of 0.5-2.5 mPa\u00b7s at 20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(CCl)OCCCl",
+    "Property": "Density",
+    "Value": 1.22,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.98",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we can use the general density formula for organic compounds, which is approximately 0.8-1.2 g/cm3. However, this is a very broad range and does not take into account the specific molecular structure of the compound.\n\nA more accurate prediction can be made by looking at the molecular structure of the compound. The compound has a molecular formula of C3H7Cl2O, which suggests that it is a relatively small molecule with a moderate molecular weight. The presence of two chlorine atoms also suggests that the molecule may be denser than a molecule with only hydrogen and carbon atoms.\n\n#Prediction\n0.98"
+  },
+  {
+    "CompName": "Ethyl cyanoacetate",
+    "SMILES": "CCOC(=O)CC#N",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 67.3,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C[C-]1C=CC=C1.[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn]",
+    "Property": "Boiling temperature",
+    "Value": 231.6666667,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-50",
+    "predicted_text": "#Prediction\n-50\n\n#Reason\nThe compound given is a manganese heptacarbonyl, which is a metal carbonyl compound. Metal carbonyls are known to have low boiling temperatures due to the weak intermolecular forces between the metal and the carbonyl ligands. The boiling temperature of manganese heptacarbonyl is reported to be around -50\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(#CCl)Cl",
+    "Property": "Density",
+    "Value": 1.26,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.4",
+    "predicted_text": "#Prediction\n1.4\n\n#Reason\nTo predict the density of the compound, we need to know its molecular structure and properties. However, the given SMILES notation \"C(#CCl)Cl\" suggests that the compound is a chlorinated alkane with a triple bond. \n\nUnfortunately, without more information about the compound's molecular structure, such as its molecular weight, molar volume, or specific gravity, it's challenging to provide an accurate density prediction. However, we can make an educated estimate based on the general properties of similar compounds.\n\nTypically, chlorinated alkanes have densities ranging from 0.9 to 1.4 g/cm3. Given the presence of a triple bond, which can lead to a more compact molecular structure, we can lean towards the higher end of this range.\n\nTherefore, a predicted density of 1.4 g/cm3 is a reasonable estimate, but please note that this is a rough approximation and may not be entirely accurate without further information."
+  },
+  {
+    "CompName": "Vanadyl sulfate",
+    "SMILES": null,
+    "Property": "Melting temperature",
+    "Value": 105.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificmeltingtemperatureforVanadylsulfateasthecompound'smeltingtemperatureisnotreadilyavailableinmycurrentdatabase.",
+    "predicted_text": "I can't provide a specific melting temperature for Vanadyl sulfate as the compound's melting temperature is not readily available in my current database."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC1CCCCC1=O",
+    "Property": "Density",
+    "Value": 0.93,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.876",
+    "predicted_text": "#Reason\nTo predict the density of the given compound, we need to know its molecular structure. The SMILES notation \"CC1CCCCC1=O\" represents a molecule with a cyclohexane ring and an oxygen atom attached to one of the carbon atoms. This suggests that the compound is a cyclic ether.\n\n#Prediction\n0.876"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[O-][O+]=O",
+    "Property": "Ionization Energy",
+    "Value": 12.52,
+    "unit": "[eV]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "6.4",
+    "predicted_text": "#Prediction\n6.4\n\n#Reason\nTo predict the ionization energy of the given compound, we need to understand that it is a molecule of oxygen gas (O2). The ionization energy of a molecule is the energy required to remove an electron from the molecule, resulting in a cation. \n\nThe ionization energy of oxygen gas is typically around 12.07 eV. However, since the given SMILES notation represents a molecule with a charge, it is likely that the ionization energy is lower due to the presence of a charge. \n\nConsidering the charge on the molecule, it is likely that the ionization energy is lower than that of neutral oxygen gas. A commonly cited value for the ionization energy of O2+ is around 6.4 eV."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[F-].[Na+]",
+    "Property": "Absolute standard enthalpy of formation",
+    "Value": 576.6,
+    "unit": "[kJ/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-47.85",
+    "predicted_text": "#Prediction\n-47.85\n\n#Reason\nThe compound with the SMILES [F-].[Na+] is Sodium fluoride. The absolute standard enthalpy of formation of Sodium fluoride is -47.85 kJ/mol."
+  },
+  {
+    "CompName": "Ammonium azide",
+    "SMILES": "N.N=[N+]=[N-]",
+    "Property": "Boiling temperature",
+    "Value": 400.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe boiling temperature of Ammonium azide cannot be accurately predicted without access to a reliable database or a specific model trained on relevant data. However, based on general knowledge, azides are known to be highly unstable and sensitive compounds, and their physical properties are not well-documented. Therefore, a precise boiling temperature cannot be provided."
+  },
+  {
+    "CompName": "Resorcinol",
+    "SMILES": "c1cc(cc(c1)O)O",
+    "Property": "Melting temperature",
+    "Value": 110.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound in question is Resorcinol, with the SMILES notation c1cc(cc(c1)O)O. To predict its melting temperature, we need to consider its chemical structure and properties.\n\nResorcinol is an organic compound with a phenol group attached to a benzene ring. The presence of the hydroxyl (-OH) group suggests that it may have a relatively low melting temperature due to the intermolecular hydrogen bonding between molecules.\n\nHowever, the exact melting temperature of Resorcinol is not readily available in the provided information. Therefore, we will use a general approach to estimate its melting temperature based on the properties of similar compounds.\n\nThe melting temperature of Resorcinol is estimated to be around 110."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC(=O)OC1=O",
+    "Property": "Flash temperature",
+    "Value": 103.3333333,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideatemperaturepredictionforthegivencompound.However,IcantellyouthattheSMILESnotation\"C1=CC(=O)OC1=O\"correspondstoacompoundcalledMethylsalicylate.",
+    "predicted_text": "I can't provide a temperature prediction for the given compound. However, I can tell you that the SMILES notation \"C1=CC(=O)OC1=O\" corresponds to a compound called Methyl salicylate."
+  },
+  {
+    "CompName": "Lead(II) nitrate",
+    "SMILES": "[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pb+2]",
+    "Property": "Density",
+    "Value": 4.7,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "4.106",
+    "predicted_text": "#Prediction\n4.106\n\n#Reason\nTo predict the density of Lead(II) nitrate, we need to know the molar mass and the crystal structure of the compound. The molar mass of Lead(II) nitrate can be calculated by summing the atomic masses of its constituent elements: Lead (Pb) has an atomic mass of 207.2 g/mol, Nitrogen (N) has an atomic mass of 14.01 g/mol, and Oxygen (O) has an atomic mass of 16.00 g/mol. The molar mass of Lead(II) nitrate is 331.2 g/mol.\n\nThe crystal structure of Lead(II) nitrate is orthorhombic, with a density of 4.106 g/cm3. This value is based on the crystal structure data available in the literature."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "Nc1ccc(N)cc1",
+    "Property": "Melting temperature",
+    "Value": 146.1111111,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation \"Nc1ccc(N)cc1\" is likely a nitrobenzene derivative. Nitrobenzene has a melting temperature of -6.5\u00b0C. However, the presence of the nitrogen atom in the SMILES notation suggests that the compound might be a nitroaniline. Nitroanilines generally have lower melting temperatures than nitrobenzene. Considering this, a predicted melting temperature of -20\u00b0C is reasonable."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "I[Th](I)(I)I",
+    "Property": "Density",
+    "Value": 6.0,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "7.86",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure and properties. The given SMILES notation \"I[Th](I)(I)I\" represents a molecule with a thorium atom bonded to four iodine atoms. However, thorium is a radioactive, highly reactive metal, and its compounds are not well-represented in the available data. \n\nGiven the lack of information about the specific compound, we can't accurately predict its density. However, we can make an educated estimate based on the density of thorium and iodine.\n\n#Prediction\n7.86"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[O-]S(=O)(=O)S(=O)(=O)[O-].[Na+].[Na+]",
+    "Property": "Decomposition temperature",
+    "Value": 267.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificdecompositiontemperatureforthegivencompound.However,Icantellyouthatthecompoundissodiumperoxodisulfate,astrongoxidizingagentcommonlyusedinvariousindustrialandlaboratoryapplications.",
+    "predicted_text": "I can't provide a specific decomposition temperature for the given compound. However, I can tell you that the compound is sodium peroxodisulfate, a strong oxidizing agent commonly used in various industrial and laboratory applications.\n\nThe decomposition temperature of sodium peroxodisulfate is typically around 400-420\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "Cl[Cr](Cl)(=O)=O",
+    "Property": "Melting temperature",
+    "Value": -96.66666667,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound in question has a SMILES notation of Cl[Cr](Cl)(=O)=O, which suggests it is a dichloro chromium(VI) oxide. This compound is known to be a strong oxidizing agent and has a melting temperature of -20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C=CC1=CC=CC=C1",
+    "Property": "Vapor pressure",
+    "Value": 5.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.235",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate the vapor pressure of an organic compound.\n\nTo estimate the vapor pressure of the given compound, we can use the modified Riedel method, which is a semi-empirical method that uses the molecular structure to estimate the vapor pressure. This method takes into account the molecular weight, the number of carbon atoms, and the number of hydrogen atoms bonded to the carbon atoms.\n\nThe formula for the modified Riedel method is:\n\nlog10(P) = -0.0123 * (M - 0.036) + 0.0123 * (C - 0.5) + 0.0123 * (H - 0.5)\n\nwhere P is the vapor pressure in kPa, M is the molecular weight, C is the number of carbon atoms, and H is the number of hydrogen atoms bonded to the carbon atoms.\n\nFirst, we need to calculate the molecular weight of the compound. The SMILES notation C=CC1=CC=CC=C1 indicates that the compound has a molecular structure with 6 carbon atoms and 6 hydrogen atoms.\n\nThe molecular weight of the compound can be calculated as follows:\n\nM = 6 * 12.01 (carbon) + 6 * 1.008 (hydrogen) = 72.06 g/mol\n\nNow, we can plug in the values into the modified Riedel method formula:\n\nlog10(P) = -0.0123 * (72.06 - 0.036) + 0.0123 * (6 - 0.5) + 0.0123 * (6 - 0.5)\nlog10(P) = -0.0123 * 72.024 + 0.0123 * 5.5 + 0.0123 * 5.5\nlog10(P) = -0.876 + 0.0677 + 0.0677\nlog10(P) = -0.741\n\nNow, we can exponentiate the result to get the vapor pressure in kPa:\n\nP = 10^(-0.741) = 0.235 kPa\n\n#Prediction\n#0.235"
+  },
+  {
+    "CompName": "1,2-Difluoroethane",
+    "SMILES": "C(CF)F",
+    "Property": "Density",
+    "Value": 0.913,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.968",
+    "predicted_text": "#Prediction\n0.968\n\n#Reason\nTo predict the density of 1,2-Difluoroethane, we can use the general density formula for organic compounds. However, since the SMILES notation does not provide specific information about the molecular structure, we will use a general approach based on the molecular weight and the molar volume.\n\nThe molecular weight of 1,2-Difluoroethane can be calculated from its SMILES notation. The molecular weight is 66.04 g/mol.\n\nThe molar volume of a gas at standard temperature and pressure (STP) is approximately 22.4 liters per mole. However, since 1,2-Difluoroethane is a liquid at room temperature, we will use a more general approach to estimate its density.\n\nA general rule of thumb for the density of organic compounds is that it is approximately equal to the molecular weight divided by 24. The density of 1,2-Difluoroethane is therefore approximately 66.04 / 24 = 2.75 g/cm3. However, this is a rough estimate and may not be accurate.\n\nA more accurate approach would be to use the critical temperature and critical pressure of the compound. However, this information is not provided in the SMILES notation.\n\nTherefore, based on the general rule of thumb, the predicted density of 1,2-Difluoroethane is 2.75 g/cm3. However, this value may not be accurate and should be used as a rough estimate."
+  },
+  {
+    "CompName": "Tetrahydroisoquinoline",
+    "SMILES": "c1ccc2c(c1)CCNC2",
+    "Property": "Boiling temperature",
+    "Value": 235.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe boiling temperature of Tetrahydroisoquinoline cannot be determined with the given information. However, I can provide some general information about the compound. Tetrahydroisoquinoline is a compound with a molecular structure that suggests it is a relatively stable molecule. The boiling temperature of a compound is influenced by its molecular weight, intermolecular forces, and other factors. Without specific data on these factors, it is difficult to make an accurate prediction.\n\nHowever, based on general trends in organic chemistry, compounds with similar molecular structures and properties tend to have boiling temperatures in the range of 100-300\u00b0C. Therefore, a rough estimate for the boiling temperature of Tetrahydroisoquinoline could be around 150-250\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC1CCCCC1",
+    "Property": "Flash temperature",
+    "Value": -3.888888889,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-0.5",
+    "predicted_text": "#Prediction\n-0.5\n\n#Reason\nThe Flash temperature of the given compound is predicted to be -0.5 oC. This prediction is based on the SMILES notation \"CC1CCCCC1\", which represents a cyclohexane molecule. Cyclohexane is a non-polar, saturated hydrocarbon with a relatively low boiling temperature. The flash temperature is a measure of the temperature at which a liquid can vaporize rapidly, and for cyclohexane, it is typically around -0.5 oC. This value is consistent with the physical properties of cyclohexane, which has a boiling temperature of 80.7 oC and a melting temperature of 6.5 oC."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC1CN1",
+    "Property": "Melting temperature",
+    "Value": -65.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation \"CC1CN1\" is likely a secondary amine, specifically isopropylamine. The melting temperature of isopropylamine is around -20\u00b0C."
+  },
+  {
+    "CompName": "Methylene diphenyl diisocyanate",
+    "SMILES": "O=C=NC(C=C2)=CC=C2CC1=CC=C(N=C=O)C=C1",
+    "Property": "Boiling temperature",
+    "Value": 314.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound Methylene diphenyl diisocyanate has a boiling temperature of 306.0 oC. This value is based on the boiling temperature of similar compounds with similar molecular structures."
+  },
+  {
+    "CompName": "Fumaric acid",
+    "SMILES": "C(=C/C(=O)O)\\C(=O)O",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 49.11,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-0.0004",
+    "predicted_text": "#Prediction\n-0.0004\n\n#Reason\nTo predict the absolute molar magnetic susceptibility of Fumaric acid, we need to consider its molecular structure and properties. Fumaric acid is an organic compound with a planar, unsaturated structure. \n\nThe magnetic susceptibility of a compound is a measure of its response to a magnetic field. In general, organic compounds with a planar, unsaturated structure tend to have a low magnetic susceptibility due to the delocalization of electrons in the \u03c0-bonding system.\n\nHowever, without specific data on the magnetic properties of Fumaric acid, we cannot provide an accurate prediction. Nevertheless, based on the general trend of organic compounds with similar structures, we can make an educated estimate.\n\nA commonly used value for the absolute molar magnetic susceptibility of organic compounds is around -0.0004 x 10^-6 cm^3/mol. This value is a rough estimate and may not be accurate for Fumaric acid specifically."
+  },
+  {
+    "CompName": "Gallic acid",
+    "SMILES": "O=C(O)c1cc(O)c(O)c(O)c1",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 90.0,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000\n\n#Reason\nTo predict the absolute molar magnetic susceptibility of Gallic acid, we need to consider its molecular structure. Gallic acid is a benzene ring with three hydroxyl groups attached to it. The presence of these hydroxyl groups suggests that the molecule is likely to be diamagnetic, as they are typically associated with a decrease in magnetic susceptibility.\n\nHowever, the benzene ring itself is also diamagnetic, and the overall effect of the hydroxyl groups is likely to be a small increase in magnetic susceptibility due to the lone pairs on the oxygen atoms. However, this effect is typically very small and can often be neglected.\n\nTherefore, based on the molecular structure of Gallic acid, we can predict that its absolute molar magnetic susceptibility is very close to zero, likely in the order of 10^-6 cm^3/mol."
+  },
+  {
+    "CompName": "Dicobalt octacarbonyl",
+    "SMILES": "O=C=[Co]1(=C=O)(=C=O)C(=O)[Co](=C=O)(=C=O)(=C=O)C1=O",
+    "Property": "Density",
+    "Value": 1.87,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "2.5",
+    "predicted_text": "#Prediction\n2.5\n\n#Reason\nTo predict the density of Dicobalt octacarbonyl, we need to know its molecular structure and properties. However, the SMILES notation provided does not directly give us the density. \n\nOne way to estimate the density is to use the molar mass and the molecular volume. The molar mass of Dicobalt octacarbonyl can be calculated from its SMILES notation, which is 342.06 g/mol. \n\nThe molecular volume can be estimated using the van der Waals volume, which is a rough estimate of the volume occupied by a molecule. However, without the exact van der Waals volume, we can use a general estimate of 100-200 cm^3/mol for a molecule of this size.\n\nUsing the molar mass and the estimated molecular volume, we can calculate the density as follows:\n\nDensity = Molar mass / Molecular volume\n= 342.06 g/mol / 150 cm^3/mol (midpoint of the estimated range)\n= 2.28 g/cm^3\n\nHowever, this is a rough estimate and the actual density may vary depending on the specific crystal structure and other factors. A more accurate prediction would require more detailed information about the molecule's structure and properties.\n\nGiven the available information, a reasonable estimate of the density of Dicobalt octacarbonyl is 2.5 g/cm^3."
+  },
+  {
+    "CompName": "Dimethyl acetylenedicarboxylate",
+    "SMILES": "COC(=O)C#CC(=O)OC",
+    "Property": "Boiling temperature",
+    "Value": 195.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound Dimethyl acetylenedicarboxylate has a molecular structure that suggests a relatively high boiling temperature due to the presence of two ester groups and a triple bond. The ester groups are known to contribute to the boiling temperature of a compound, and the triple bond adds to the overall stability of the molecule. However, the exact boiling temperature cannot be determined without experimental data or more specific information about the compound's properties. Based on general trends and the molecular structure, a reasonable estimate for the boiling temperature of Dimethyl acetylenedicarboxylate is around 170."
+  },
+  {
+    "CompName": "Red fuming nitric acid",
+    "SMILES": null,
+    "Property": "Boiling temperature",
+    "Value": 120.5,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Reason\nUnfortunately, I cannot find any information about the boiling temperature of Red fuming nitric acid."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(C(C1=CC=CC=C1)O)NC",
+    "Property": "Decomposition temperature",
+    "Value": 225.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "150",
+    "predicted_text": "I can't provide a specific decomposition temperature for the given compound. However, I can give you some general information about the compound and its properties.\n\nThe SMILES notation CC(C(C1=CC=CC=C1)O)NC represents a compound with a molecular structure that includes a benzene ring and an amine group. The presence of these functional groups can affect the compound's thermal stability and decomposition temperature.\n\nTo predict the decomposition temperature, we would need more specific information about the compound, such as its molecular weight, boiling temperature, and other physical properties. However, based on general trends and the structure of the compound, we can make an educated estimate.\n\nThe compound's molecular weight is approximately 123.16 g/mol. This is relatively low, which might indicate a lower decomposition temperature. However, the presence of the benzene ring and amine group could also contribute to a higher decomposition temperature due to their thermal stability.\n\nBased on these factors, a possible decomposition temperature for this compound could be around 150-200\u00b0C. However, this is a rough estimate and should be taken as a rough prediction.\n\n#Prediction\n150\n\n#Reason\nThe decomposition temperature of the compound is difficult to predict with certainty without more specific information. However, based on the molecular structure and general trends, a possible decomposition temperature range of 150-200\u00b0C is estimated."
+  },
+  {
+    "CompName": "1,2-Cyclohexane dicarboxylic acid diisononyl ester",
+    "SMILES": "O=C(OCCCCCCC(C)C)C1C(C(=O)OCCCCCCC(C)C)CCCC1",
+    "Property": "Melting temperature",
+    "Value": -54.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovidethemeltingtemperatureofthecompound1,2-Cyclohexanedicarboxylicaciddiisononylester.",
+    "predicted_text": "I can't provide the melting temperature of the compound 1,2-Cyclohexane dicarboxylic acid diisononyl ester."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCN",
+    "Property": "Density",
+    "Value": 0.69,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.8",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure. However, the SMILES notation \"CCN\" suggests that the compound is a simple alkylamine. \n\nThe density of alkylamines can vary depending on the specific compound, but a general range for simple alkylamines is between 0.7 and 0.9 g/cm3. \n\nGiven the limited information, we will assume a density of 0.8 g/cm3 for this compound.\n\n#Prediction\n0.8"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CN(C)C1=CC=NC=C1",
+    "Property": "Boiling temperature",
+    "Value": 162.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound with the SMILES notation CN(C)C1=CC=NC=C1 is likely to be 2-Chloroaniline. The boiling temperature of 2-Chloroaniline is 173.0 oC."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(CO)NCCO",
+    "Property": "Density",
+    "Value": 1.1,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.95",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure and properties. However, the given SMILES notation \"C(CO)NCCO\" does not provide enough information to calculate the density directly. \n\nOne way to estimate the density is to use the molar mass and the molecular volume. The molar mass can be calculated from the SMILES notation, and the molecular volume can be estimated using the van der Waals volume.\n\n#Prediction\n0.95"
+  },
+  {
+    "CompName": "Asparagusic acid",
+    "SMILES": "O=C(O)C1CSSC1",
+    "Property": "Density",
+    "Value": 1.5,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.8",
+    "predicted_text": "#Reason\nTo predict the density of Asparagusic acid, we need to know its molecular structure and properties. However, the SMILES notation provided does not directly give us the molecular weight or the volume of the compound. \n\nWe can estimate the molecular weight by analyzing the SMILES notation. The SMILES notation \"O=C(O)C1CSSC1\" represents a molecule with the following atoms: 1 oxygen, 1 carbon, 1 sulfur, and 4 hydrogens. \n\nThe atomic weights are approximately: oxygen = 16 g/mol, carbon = 12 g/mol, sulfur = 32 g/mol, and hydrogen = 1 g/mol. \n\nThe molecular weight of Asparagusic acid can be estimated as follows:\n(1 * 16) + (1 * 12) + (1 * 32) + (4 * 1) = 16 + 12 + 32 + 4 = 64 g/mol\n\nHowever, this is a very rough estimate and does not take into account the actual molecular structure of Asparagusic acid. \n\nTo estimate the volume, we would need more information about the molecular structure, such as the bond lengths and angles. \n\nSince we cannot accurately estimate the volume, we will assume a rough estimate of the density based on the molecular weight and a typical density range for organic compounds.\n\n#Prediction\n0.8"
+  },
+  {
+    "CompName": "Fructose",
+    "SMILES": "O[C@H]1[C@H](O)[C@H](O[C@]1(O)CO)CO",
+    "Property": "Density",
+    "Value": 1.694,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.789",
+    "predicted_text": "#Prediction\n1.789\n\n#Reason\nTo predict the density of Fructose, we need to know its molecular weight and molar volume. The molecular weight of Fructose can be calculated from its SMILES representation. \n\nThe SMILES representation O[C@H]1[C@H](O)[C@H](O[C@]1(O)CO)CO contains 6 carbon atoms, 8 hydrogen atoms, and 6 oxygen atoms. The atomic weights are approximately 12.01 g/mol for carbon, 1.008 g/mol for hydrogen, and 16.00 g/mol for oxygen.\n\nThe molecular weight of Fructose is calculated as follows:\n(6 * 12.01) + (8 * 1.008) + (6 * 16.00) = 72.06 + 8.064 + 96.00 = 176.124 g/mol\n\nThe molar volume of a substance can be estimated using the molar volume of water (18.015 cm^3/mol) and the density of water (1 g/cm^3). The molar volume of a substance is proportional to its molecular weight and inversely proportional to its density. \n\nHowever, without the exact density of Fructose, we cannot calculate its molar volume directly. But we can use the density of a similar compound, glucose, which is approximately 1.54 g/cm^3. \n\nAssuming a similar density for Fructose, we can estimate its molar volume as follows:\nMolar volume of water = 18.015 cm^3/mol\nDensity of water = 1 g/cm^3\nMolar volume of Fructose = (Molecular weight of Fructose / Density of Fructose) = (176.124 g/mol / 1.54 g/cm^3) = 114.1 cm^3/mol\n\nNow, we can calculate the density of Fructose using its molar volume and molecular weight:\nDensity of Fructose = Molecular weight of Fructose / Molar volume of Fructose = 176.124 g/mol / 114.1 cm^3/mol = 1.54 g/cm^3\n\nHowever, this is the density of glucose, not Fructose. We need to find a more accurate density for Fructose. Unfortunately, I couldn't find a reliable source for the density of Fructose. \n\nAs a last resort, we can use the density of a similar compound, sucrose, which is approximately 1.59 g/cm^3. \n\nAssuming a similar density for Fructose, we can estimate its density as follows:\nDensity of Fructose = Density of sucrose = 1.59 g/cm^3\n\nHowever, this is still an estimate and may not be accurate. \n\nA more accurate prediction can be made by using the density of a similar compound, sorbitol, which is approximately 1.73 g/cm^3. \n\nAssuming a similar density for Fructose, we can estimate its density as follows:\nDensity of Fructose = Density of sorbitol = 1.73 g/cm^3\n\nHowever, this is still an estimate and may not be accurate. \n\nA more accurate prediction can be made by using the density of a similar compound, mannitol, which is approximately 1.59 g/cm^3. \n\nAssuming a similar density for Fructose, we can estimate its density as follows:\nDensity of Fructose = Density of mannitol = 1.59 g/cm^3\n\nHowever, this is still an estimate and may not be accurate. \n\nA more accurate prediction can be made by using the density of a similar compound, galactose, which is approximately 1.53 g/cm^3. \n\nAssuming a similar density for Fructose, we can estimate its density as follows:\nDensity of Fructose = Density of galactose = 1.53 g/cm^3\n\nHowever, this is still an estimate and may not be accurate. \n\nA more accurate prediction can be made by using the density of a similar compound, xylose, which is approximately 1.52 g/cm^3. \n\nAssuming a similar density for Fructose, we can estimate its density as follows:\nDensity of Fructose = Density of xylose = 1.52 g/cm^3\n\nHowever, this is still an estimate and may not be accurate. \n\nA more accurate prediction can be made by using the density of a similar compound, arabinose, which is approximately 1.51 g/cm^3. \n\nAssuming a similar density for Fructose, we can estimate its density as follows:\nDensity of Fructose = Density of arabinose = 1.51 g/cm^3\n\nHowever, this is still an estimate and may not be accurate. \n\nA more accurate prediction can be made by using the density of a similar compound, ribose, which is approximately 1.50 g/cm^3. \n\nAssuming a similar density for Fructose"
+  },
+  {
+    "CompName": "Ethylbenzene",
+    "SMILES": "CCc1ccccc1",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 77.2,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000\n\n#Reason\nTo predict the absolute molar magnetic susceptibility of Ethylbenzene, we need to consider its molecular structure. Ethylbenzene is an organic compound with a benzene ring and an ethyl group attached to it. The magnetic susceptibility of a compound is a measure of its response to a magnetic field, and it is influenced by the presence of unpaired electrons and the molecular structure.\n\nIn the case of Ethylbenzene, the benzene ring has a planar, ring-shaped structure with alternating double bonds, which contributes to its diamagnetic properties. The ethyl group attached to the benzene ring is a saturated hydrocarbon chain, which is also diamagnetic.\n\nSince Ethylbenzene does not have any unpaired electrons, its magnetic susceptibility is expected to be very low. In fact, most organic compounds with a similar structure to Ethylbenzene have absolute molar magnetic susceptibilities in the range of 0.000000 to 0.000010 [10^-6 cm3/mol]. Therefore, based on this information, we can predict the absolute molar magnetic susceptibility of Ethylbenzene to be 0.000000 [10^-6 cm3/mol]."
+  },
+  {
+    "CompName": "Lead(II) iodide",
+    "SMILES": "I[Pb]I",
+    "Property": "Band gap",
+    "Value": 2.3,
+    "unit": "[eV]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.3",
+    "predicted_text": "#Prediction\n0.3\n\n#Reason\nTo predict the band gap of Lead(II) iodide, we need to consider its electronic structure. Lead(II) iodide is an ionic compound composed of lead cations (Pb2+) and iodide anions (I-). The band gap is a measure of the energy difference between the valence and conduction bands in a solid material.\n\nLead(II) iodide has a rock-salt crystal structure, which is a typical structure for ionic compounds. In this structure, the lead cations are arranged in a face-centered cubic lattice, and the iodide anions occupy the octahedral interstices. The band gap of a rock-salt structure is typically around 0.3 eV, which is a relatively small band gap.\n\nTherefore, based on the electronic structure and crystal structure of Lead(II) iodide, we predict a band gap of 0.3 eV."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC#N",
+    "Property": "Flash temperature",
+    "Value": 5.555555556,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-1.0",
+    "predicted_text": "#Prediction\n-1.0\n\n#Reason\nThe compound with the SMILES notation \"CC#N\" is a nitroalkane. Nitroalkanes are known to have a low melting temperature."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC([N+](=O)[O-])(Cl)Cl",
+    "Property": "Vapor pressure",
+    "Value": 15.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionforthevaporpressureofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimateit.",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the vapor pressure of the compound with the SMILES notation CC([N+](=O)[O-])(Cl)Cl, we can use the following steps:\n\n1.  **Identify the compound**: The SMILES notation suggests that the compound is a chloroformazium chloride, a type of organic compound.\n2.  **Determine the molecular weight**: The molecular weight of the compound can be calculated using the atomic weights of its constituent elements. The molecular weight of chloroformazium chloride is approximately 129.45 g/mol.\n3.  **Use a vapor pressure estimation method**: There are several methods to estimate vapor pressure, such as the Antoine equation, the Lee-Kesler method, or the group contribution method. For simplicity, let's use the Antoine equation, which is a widely used method for estimating vapor pressure.\n\nThe Antoine equation is given by:\n\nlog10(P) = A - (B / (T + C))\n\nwhere P is the vapor pressure, T is the temperature in Kelvin, and A, B, and C are constants specific to the compound.\n\nHowever, without specific values for A, B, and C, we cannot calculate the vapor pressure directly. These constants are typically obtained from experimental data or literature values.\n\nTo provide a more accurate prediction, we would need to look up the Antoine constants for chloroformazium chloride or use a more complex method like the group contribution method, which requires a detailed understanding of the compound's molecular structure and properties.\n\nIf you have access to a reliable source of Antoine constants or a more advanced method, you can use those to estimate the vapor pressure of the compound.\n\nFor the sake of this example, let's assume a hypothetical Antoine equation for chloroformazium chloride with A = 8.5, B = 1500, and C = 250. This is purely fictional and not based on actual data.\n\nUsing this hypothetical Antoine equation, we can estimate the vapor pressure at a temperature of 298.15 K (25\u00b0C):\n\nlog10(P) = 8.5 - (1500 / (298.15 + 250))\nlog10(P) \u2248 4.5\nP \u2248 25151.3 Pa\n\nConverting this to kPa, we get:\n\nP \u2248 25.15 kPa\n\n**Prediction**\n# 25.15"
+  },
+  {
+    "CompName": "Nitroacetanilide",
+    "SMILES": "O=C(Nc1ccc(cc1)[N+]([O-])=O)C",
+    "Property": "Melting temperature",
+    "Value": 215.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "80",
+    "predicted_text": "#Prediction\n#Reason\nThe compound in question is Nitroacetanilide, with the SMILES notation O=C(Nc1ccc(cc1)[N+]([O-])=O)C. To predict its melting temperature, we need to consider its molecular structure and properties.\n\nNitroacetanilide is an organic compound with a nitro group (-NO2) attached to an acetanilide backbone. The presence of the nitro group can influence the melting temperature by introducing intermolecular forces such as hydrogen bonding and dipole-dipole interactions.\n\nHowever, without specific data on the compound's melting temperature, we can make an educated estimate based on general trends. Typically, compounds with nitro groups tend to have higher melting temperatures due to their polar nature.\n\nGiven the lack of specific information on Nitroacetanilide's melting temperature, we can look at the melting temperatures of similar compounds. For example, the melting temperature of acetanilide is around 114.0 oC, while the melting temperature of nitrobenzene is around 5.7 oC. However, these values are not directly comparable to Nitroacetanilide.\n\nConsidering the presence of the nitro group and the acetanilide backbone, a reasonable estimate for the melting temperature of Nitroacetanilide would be around 80 oC.\n\n#Prediction\n80"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCS",
+    "Property": "Melting temperature",
+    "Value": -113.3333333,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation \"CCCS\" is likely a simple alkane, specifically 1-propanethiol. The melting temperature of 1-propanethiol is around -20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(=C)C(=O)OC",
+    "Property": "Flash temperature",
+    "Value": 10.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "I can't provide a prediction for the Flash temperature of the given compound. However, I can guide you through a general process to estimate it.\n\nTo estimate the Flash temperature of the given compound, we need to consider its structure and properties. The SMILES notation \"CC(=C)C(=O)OC\" suggests that the compound is an ether with an ester group. Esters typically have relatively low boiling points due to the weak intermolecular forces between their molecules.\n\nOne way to estimate the Flash temperature is by using the boiling temperature of similar compounds. However, without more specific information about the compound, such as its molecular weight or the types of substituents on the molecule, it's challenging to provide an accurate prediction.\n\nIf we consider a general trend, ethers with ester groups tend to have relatively low boiling points, often below 100\u00b0C. However, this is a rough estimate and can vary depending on the specific compound.\n\nTo provide a more accurate prediction, we would need more information about the compound or its properties. If you have any additional details, I can try to provide a more precise estimate.\n\n#Prediction\n#Reason\nThe Flash temperature of the given compound is difficult to predict without more information. Esters with ether groups tend to have relatively low boiling points, but the exact value depends on the specific compound."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C=CC=O",
+    "Property": "Ionization Energy",
+    "Value": 10.13,
+    "unit": "[eV]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "6.0",
+    "predicted_text": "#Prediction\n6.0\n\n#Reason\nTo predict the ionization energy of the given compound, we need to identify its molecular structure. The SMILES notation \"C=CC=O\" represents a molecule with a carbon-carbon double bond and a carbon-oxygen double bond, indicating the presence of a carbonyl group. This suggests that the compound is likely an aldehyde or ketone.\n\nIonization energy is the energy required to remove an electron from a molecule. It is influenced by the molecular structure, particularly the electronegativity of the atoms involved and the molecular orbital configuration.\n\nGiven the molecular structure, we can estimate the ionization energy based on general trends. Aldehydes and ketones typically have ionization energies in the range of 8-10 eV. However, without more specific information about the compound, such as its exact molecular weight or the specific molecular orbital configuration, we cannot provide a more precise value.\n\nTherefore, based on the general trend for aldehydes and ketones, a reasonable estimate for the ionization energy of this compound is 6.0 eV."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C=CC#N",
+    "Property": "Boiling temperature",
+    "Value": 77.22222222,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound with the SMILES notation C=CC#N is Azulene."
+  },
+  {
+    "CompName": "3-Pentanone",
+    "SMILES": "O=C(CC)CC",
+    "Property": "Melting temperature",
+    "Value": -39.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound 3-Pentanone has a melting temperature of -20\u00b0C. This value is based on the general properties of ketones, which typically have low melting temperatures due to their relatively weak intermolecular forces."
+  },
+  {
+    "CompName": "Chloromethyl methyl ether",
+    "SMILES": "COCCl",
+    "Property": "Melting temperature",
+    "Value": -103.5,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound in question is Chloromethyl methyl ether, with the SMILES notation COCCl. To predict its melting temperature, we need to consider its chemical structure and properties. \n\nChloromethyl methyl ether is an organic compound with a relatively low molecular weight and a simple structure. It is a polar molecule with a dipole moment, which suggests that it may have a relatively low melting temperature due to the weak intermolecular forces between its molecules.\n\nBased on general trends in organic chemistry, ethers with a similar structure to Chloromethyl methyl ether typically have melting temperatures ranging from -50\u00b0C to 50\u00b0C. Given the specific structure of Chloromethyl methyl ether, a melting temperature of -20\u00b0C is a reasonable prediction."
+  },
+  {
+    "CompName": "Pentanal",
+    "SMILES": "O=CCCCC",
+    "Property": "Melting temperature",
+    "Value": -60.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe melting temperature of Pentanal (SMILES: O=CCCCC) is predicted to be -20\u00b0C. This prediction is based on the general properties of aldehydes, which typically have low melting temperatures due to their weak intermolecular forces. Pentanal, being a 5-carbon aldehyde, is expected to have a relatively low melting temperature."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "FS(F)(F)F",
+    "Property": "Vapor pressure",
+    "Value": 1063.9125,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionforthevaporpressureofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimateit.",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the vapor pressure of a compound, we can use the Lee-Kesler method, which is a widely used correlation for estimating the vapor pressure of pure compounds. This method requires the critical temperature (Tc) and critical pressure (Pc) of the compound.\n\nThe SMILES notation FS(F)(F)F represents a compound with a fluorine atom bonded to a sulfur atom, which is likely a fluorosulfur compound. However, without more information about the specific compound, it's challenging to determine its Tc and Pc values.\n\nIf we assume the compound is a simple fluorosulfur compound, we can use the general trend that fluorine substitution tends to increase the boiling temperature and decrease the vapor pressure of a compound. However, without specific data, it's difficult to provide an accurate prediction.\n\nIf you have more information about the compound, such as its molecular structure or any known physical properties, I can try to provide a more accurate prediction."
+  },
+  {
+    "CompName": "Mercaptobenzothiazole",
+    "SMILES": "c1ccc2c(c1)[nH]c(=S)s2",
+    "Property": "Melting temperature",
+    "Value": 178.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound Mercaptobenzothiazole has a melting temperature of 68."
+  },
+  {
+    "CompName": "Quinacridone",
+    "SMILES": "O=C4c5ccccc5Nc3cc2C(=O)c1c(cccc1)Nc2cc34",
+    "Property": "Density",
+    "Value": 1.47,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.45",
+    "predicted_text": "#Prediction\n1.45\n\n#Reason\nTo predict the density of Quinacridone, we need to consider its molecular structure and properties. Quinacridone is a polycyclic aromatic compound with a complex molecular structure. However, without specific information about its crystal structure or experimental data, we can make an educated estimate based on general trends and properties of similar compounds.\n\nOne approach is to use the molar mass of Quinacridone and its molecular volume to estimate its density. The molar mass of Quinacridone can be calculated from its SMILES representation, which is 206.23 g/mol. However, without the exact molecular volume, we cannot directly calculate the density.\n\nAnother approach is to look for similar compounds with known densities. Quinacridone is a polycyclic aromatic compound, and its density is likely to be similar to that of other polycyclic aromatic compounds. A rough estimate of the density of Quinacridone can be made by looking at the densities of similar compounds. For example, the density of anthracene, a polycyclic aromatic compound, is approximately 1.25 g/cm3. Based on this, we can make an educated estimate of the density of Quinacridone."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "O=C(Nc1ccccc1)C",
+    "Property": "Absolute standard enthalpy of formation",
+    "Value": 210.6,
+    "unit": "[kJ/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-34.4",
+    "predicted_text": "#Prediction\n-34.4\n\n#Reason\nTo predict the absolute standard enthalpy of formation of the given compound, we can use the SMILES notation \"O=C(Nc1ccccc1)C\" to identify the compound as 4-phenylpyridine. However, the exact value of the absolute standard enthalpy of formation for this compound is not readily available in the given data. \n\nA general approach to estimate the absolute standard enthalpy of formation involves using group contribution methods or empirical formulas. However, these methods require a comprehensive database of known compounds and their enthalpies of formation, which is not provided in this scenario.\n\nGiven the lack of specific information and the complexity of the calculation, an accurate prediction is challenging. Nevertheless, we can consider a general range for the absolute standard enthalpy of formation of aromatic compounds, which typically falls between -50 and -20 kJ/mol. Based on this range, a predicted value of -34.4 kJ/mol is provided, acknowledging the uncertainty and limitations of this estimation."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(C(=O)O)C(=O)O",
+    "Property": "Melting temperature",
+    "Value": 135.6,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation C(C(=O)O)C(=O)O is likely a dimethyl malonate. The melting temperature of dimethyl malonate is around -20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC=C(C=C1)C2=CC=C(C=C2)[N+](=O)[O-]",
+    "Property": "Boiling temperature",
+    "Value": 340.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "210.0",
+    "predicted_text": "#Prediction\n#Reason\nThe compound in question has a SMILES notation of C1=CC=C(C=C1)C2=CC=C(C=C2)[N+](=O)[O-]. This notation suggests that the compound is a nitrobenzene derivative, with a nitro group (-NO2) attached to the benzene ring. The boiling temperature of nitrobenzene is 210.0 oC. However, the presence of the nitro group can affect the boiling temperature of the compound. In general, the boiling temperature of nitrobenzene derivatives can range from 200 to 220 oC, depending on the specific substitution pattern. Based on this information, a reasonable prediction for the boiling temperature of the compound is 210.0 oC.\n\n#Prediction\n210.0"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl",
+    "Property": "Flash temperature",
+    "Value": 77.22222222,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideapredictionoftheFlashtemperatureofthegivencompound.However,Icanguideyouonhowtofindit.",
+    "predicted_text": "I can't provide a prediction of the Flash temperature of the given compound. However, I can guide you on how to find it.\n\nTo find the Flash temperature of the given compound, you can use a chemical database or a software that provides this information. Some options include:\n\n1. PubChem: A comprehensive database of chemical compounds that provides a wide range of properties, including Flash temperature.\n2. ChemSpider: A chemical database that provides information on chemical compounds, including their properties and structures.\n3. ChemDraw: A software that allows you to draw and analyze chemical structures, including their properties.\n4. SciFinder: A chemical database that provides information on chemical compounds, including their properties and structures.\n\nIf you have access to any of these resources, you can search for the compound with the given SMILES notation and find its Flash temperature."
+  },
+  {
+    "CompName": "Thorium(IV) chloride",
+    "SMILES": "Cl[Th](Cl)(Cl)Cl",
+    "Property": "Density",
+    "Value": 4.59,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "7.1",
+    "predicted_text": "#Prediction\n7.1\n\n#Reason\nTo predict the density of Thorium(IV) chloride, we need to know its molecular structure and the density of its components. The SMILES notation Cl[Th](Cl)(Cl)Cl indicates that the compound has a tetrahedral structure with a Thorium atom at the center and four Chlorine atoms bonded to it.\n\nThe density of a compound can be estimated using the following formula:\n\ndensity = (molar mass / molar volume)\n\nThe molar mass of Thorium(IV) chloride can be calculated by summing the atomic masses of its constituent atoms:\n\nThorium (Th) has an atomic mass of 232.0381 g/mol\nChlorine (Cl) has an atomic mass of 35.453 g/mol\n\nThe molar mass of Thorium(IV) chloride is:\n232.0381 + 4 * 35.453 = 232.0381 + 141.812 = 373.8501 g/mol\n\nThe molar volume of a compound can be estimated using the following formula:\n\nmolar volume = (molar mass / density of the compound)\n\nHowever, we don't know the density of Thorium(IV) chloride. To estimate it, we can use the density of similar compounds. Thorium(IV) chloride is a halide, and its density is likely to be close to that of other halides with similar molecular weights.\n\nThe density of some common halides is:\n- Lithium chloride: 2.06 g/cm3\n- Sodium chloride: 2.17 g/cm3\n- Potassium chloride: 1.98 g/cm3\n\nThorium(IV) chloride has a higher molecular weight than these compounds, so its density is likely to be higher. A reasonable estimate for the density of Thorium(IV) chloride is around 7.1 g/cm3."
+  },
+  {
+    "CompName": "Phenothiazine",
+    "SMILES": "c1ccc2c(c1)Nc3ccccc3S2",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 114.8,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(CCl)Cl",
+    "Property": "Vapor pressure",
+    "Value": 40.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-2.0",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the vapor pressure of the compound with the SMILES notation CC(CCl)Cl, we can use the group contribution method. This method involves breaking down the molecule into its constituent functional groups and estimating the contribution of each group to the overall vapor pressure.\n\nThe compound has the following functional groups:\n\n- Methyl group (CH3)\n- Chloro group (Cl)\n- Chloro group (Cl)\n\nUsing the group contribution method, we can estimate the vapor pressure as follows:\n\n- Methyl group (CH3): -0.5 kPa\n- Chloro group (Cl): -0.7 kPa\n- Chloro group (Cl): -0.7 kPa\n\nTotal contribution: -2.0 kPa\n\nHowever, this is a very rough estimate and may not be accurate. The actual vapor pressure of the compound can be affected by various factors, such as the molecular weight, molecular structure, and intermolecular interactions.\n\n#Prediction\n-2.0"
+  },
+  {
+    "CompName": "Cerium(III) chloride",
+    "SMILES": "[Cl-].[Cl-].[Cl-].[Ce+3]",
+    "Property": "Melting temperature",
+    "Value": 817.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nTo predict the melting temperature of Cerium(III) chloride, we need to consider its chemical properties. Cerium(III) chloride is an ionic compound composed of cerium cations (Ce3+) and chloride anions (Cl-). The melting temperature of ionic compounds is generally influenced by the strength of the ionic bonds between the cations and anions. \n\nCerium(III) chloride has a relatively low melting temperature due to the relatively weak ionic bonds between the cerium cations and chloride anions. This is because the ionic radius of cerium is relatively large, which results in a lower lattice energy and a lower melting temperature. \n\nBased on this analysis, the predicted melting temperature of Cerium(III) chloride is -20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(Cl)Cl",
+    "Property": "Vapor pressure",
+    "Value": 182.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionforthevaporpressureofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimateit.",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the vapor pressure of the compound with the SMILES notation CC(Cl)Cl, we can use the group contribution method. This method involves breaking down the molecule into functional groups and summing their individual contributions to the vapor pressure.\n\nThe compound has two chlorine atoms, which are the only functional groups present. Chlorine atoms are known to have a significant effect on the vapor pressure of a compound. \n\nUsing the group contribution method, we can estimate the vapor pressure of the compound as follows:\n\n- Chlorine atom contribution: -5.4 kPa\n\nThe estimated vapor pressure of the compound is -5.4 kPa. However, vapor pressure cannot be negative, so this value is likely an error."
+  },
+  {
+    "CompName": "Nisin",
+    "SMILES": "C[C@H](CC)[C@@H](N)C(N/C(C(N[C@@H]1C(N[C@@H](C(NC(C(N[C@@H](C(N[C@@H](C(N[C@H](C(N2[C@@H](C(NC3)=O)CCC2)=O)[C@@H](C)SC[C@H](C(N[C@H](CCCCN)C(N[C@H](C(NCC(N[C@@H](C(N[C@H](CC(C)C)C(N[C@H](CCSC)C(NCC(N[C@@H](C(N[C@H](CC(N)=O)C(N[C@H](CCSC)C(N[C@H](CCCCN)C(N[C@@H]([C@@H](C)SC[C@@H](N6)C(N[C@H](CC5=CN=CN5)C(N[C@@H](C(N[C@H](CO)C(N[C@H]([C@@H](CC)C)C(N[C@H](CC8=CN=CN8)C(N[C@H]([C@@H](C)C)C(NC(C(N[C@H](CCCCN)C(O)=O)=O)=C)=O)=O)=O)=O)=O)CS[C@H](C)[C@H]7C6=O)=O)=O)C(N[C@H](C)C(N7)=O)=O)=O)=O)=O)=O)CS4)=O)=O)=O)=O)C)=O)=O)[C@H]4C)=O)=O)NC3=O)=O)CSC1)=O)CC(C)C)=O)=C)=O)[C@H](C)CC)=O)=O)=C\\C)=O",
+    "Property": "Boiling temperature",
+    "Value": 2966.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "234.0",
+    "predicted_text": "#Prediction\n# 234.0\n\n#Reason\nThe compound Nisin is a complex molecule with a large number of atoms and functional groups. To predict its boiling temperature, we can use the boiling temperature of similar compounds as a reference. Nisin is a type of lantibiotic, which is a class of compounds known for their antimicrobial properties. The boiling temperature of lantibiotics can vary widely depending on their structure and molecular weight. However, based on the SMILES notation provided, we can estimate the boiling temperature of Nisin to be around 234.0\u00b0C. This value is based on the boiling temperatures of similar compounds with similar molecular weights and functional groups."
+  },
+  {
+    "CompName": "Pregnenolone",
+    "SMILES": "CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C",
+    "Property": "Melting temperature",
+    "Value": 193.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificmeltingtemperatureforthecompoundPregnenolonebasedonthegivenSMILESnotation.However,Icanguideyouthroughageneralapproachtopredictthemeltingtemperatureofacompound.",
+    "predicted_text": "I can't provide a specific melting temperature for the compound Pregnenolone based on the given SMILES notation. However, I can guide you through a general approach to predict the melting temperature of a compound.\n\nTo predict the melting temperature of Pregnenolone, we would typically use a combination of theoretical models and experimental data. Here's a simplified approach:\n\n1.  **Molecular Structure Analysis**: The SMILES notation suggests that Pregnenolone has a complex molecular structure with multiple chiral centers and a steroid backbone. This complexity can affect its melting temperature.\n2.  **Molecular Weight and Density**: The molecular weight of Pregnenolone is approximately 302.49 g/mol. Its density is not provided, but it's essential for calculating the melting temperature.\n3.  **Intermolecular Forces**: The melting temperature is influenced by the strength of intermolecular forces, such as van der Waals forces, hydrogen bonding, and dipole-dipole interactions. Pregnenolone's melting temperature is likely influenced by these forces, particularly the presence of hydroxyl (-OH) and carbonyl (C=O) groups.\n4.  **Experimental Data**: Unfortunately, I don't have access to specific experimental data on the melting temperature of Pregnenolone. Typically, this information can be found in scientific literature or databases.\n\nGiven the lack of specific data, I'll provide a hypothetical prediction based on general trends. However, please note that this is not an accurate prediction and should be taken as a rough estimate.\n\n**Prediction:** 120\n\n**Reason:** This prediction is based on the general trend that steroid compounds with similar molecular weights and structures tend to have melting temperatures in the range of 100-150\u00b0C. However, this is a rough estimate and should be verified with experimental data or more advanced computational models."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC=C(C=C1)C(=O)OOC(=O)C2=CC=CC=C2",
+    "Property": "Vapor pressure",
+    "Value": 1.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tcarryoutthatcalculation.However,Icantellyouthatthecompoundinquestionis2,4-Dichlorophenol.",
+    "predicted_text": "I can't carry out that calculation. However, I can tell you that the compound in question is 2,4-Dichlorophenol."
+  },
+  {
+    "CompName": "Zinc chromate",
+    "SMILES": null,
+    "Property": "Density",
+    "Value": 3.43,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "3.85",
+    "predicted_text": "#Reason\nTo predict the density of Zinc chromate, we need to know its molecular structure. However, the SMILES notation is not provided. Without this information, we can't calculate the density directly. \n\nHowever, we can look up the density of Zinc chromate from a reliable source. According to various sources, the density of Zinc chromate is approximately 3.85 g/cm3.\n\n#Prediction\n3.85"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C=CC1=CC=CC=C1",
+    "Property": "Boiling temperature",
+    "Value": 145.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound with the SMILES notation C=CC1=CC=CC=C1 is Benzene. The boiling temperature of Benzene is 80.1 oC."
+  },
+  {
+    "CompName": "Ytterbium(III) chloride",
+    "SMILES": "Cl[Yb](Cl)Cl",
+    "Property": "Density",
+    "Value": 4.06,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "4.43",
+    "predicted_text": "#Prediction\n4.43\n\n#Reason\nTo predict the density of Ytterbium(III) chloride, we need to know its molar mass and the volume of its unit cell. However, the given SMILES string does not provide this information directly. \n\nAssuming that the compound is a solid and has a typical ionic structure, we can estimate its density using the molar mass of YbCl3. The molar mass of Ytterbium (Yb) is 173.054 g/mol, and the molar mass of Chlorine (Cl) is 35.453 g/mol. The molar mass of Ytterbium(III) chloride (YbCl3) is 266.507 g/mol.\n\nThe density of a solid can be estimated using the formula: density = molar mass / (number of moles in the unit cell * volume of the unit cell). However, without the volume of the unit cell, we cannot calculate the exact density.\n\nA typical ionic compound has a density around 2-5 g/cm3. Ytterbium(III) chloride is a heavy metal halide, and its density is expected to be higher than that of other ionic compounds. Based on this, we can make an educated guess that the density of Ytterbium(III) chloride is around 4.43 g/cm3."
+  },
+  {
+    "CompName": "Magnesium oxide",
+    "SMILES": null,
+    "Property": "Refractive index",
+    "Value": 1.7355,
+    "unit": "[-]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionfortherefractiveindexofMagnesiumoxide.However,IcantellyouthattherefractiveindexofMagnesiumoxideistypicallyaround1.74.",
+    "predicted_text": "I can't provide a specific prediction for the refractive index of Magnesium oxide. However, I can tell you that the refractive index of Magnesium oxide is typically around 1.74."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1C2CNCC1C3=CC=CC(=O)N3C2",
+    "Property": "Boiling temperature",
+    "Value": 218.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound in question has a SMILES notation of C1C2CNCC1C3=CC=CC(=O)N3C2. This notation suggests that the compound contains a nitrogen atom bonded to a carbon atom, which is part of a ring structure. The presence of a nitrogen atom and a ring structure indicates that the compound is likely an amide or an amine. Amides and amines typically have boiling temperatures in the range of 100-300\u00b0C. However, without more specific information about the compound, such as its molecular weight or the type of functional groups present, it is difficult to provide a more accurate prediction. Based on general trends, a reasonable estimate for the boiling temperature of this compound would be around 200\u00b0C."
+  },
+  {
+    "CompName": "Styrene maleic anhydride",
+    "SMILES": null,
+    "Property": "Refractive index",
+    "Value": 1.577,
+    "unit": "[-]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "I can't provide a specific prediction for the refractive index of Styrene maleic anhydride as the SMILES notation is not provided. However, I can provide general information about the compound.\n\nStyrene maleic anhydride is a chemical compound with the molecular formula C8H6O3. It is a colorless solid with a melting temperature of 55-57\u00b0C and a boiling temperature of 140-142\u00b0C.\n\nThe refractive index of a compound can be predicted using various methods, including the Lorentz-Lorenz equation, which relates the refractive index to the polarizability of the molecule. However, without the SMILES notation or a specific method for prediction, I cannot provide a precise value for the refractive index of Styrene maleic anhydride.\n\nIf you have any additional information or a specific method for prediction, I can try to assist you further.\n\n#Prediction\n#Reason\nUnfortunately, I cannot provide a prediction for the refractive index of Styrene maleic anhydride without the SMILES notation or a specific method for prediction."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCCCCCCCCCCCCCC(=O)O",
+    "Property": "Flash temperature",
+    "Value": 192.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideatemperaturepredictionforthegivencompound.However,IcantellyouthattheSMILESnotation\"CCCCCCCCCCCCCCC(=O)O\"correspondstoafattyacid,likelyalong-chaincarboxylicacid.Themeltingtemperatureoffattyacidscanvarywidelydependingontheirchainlengthandbranching.Ifyouprovidemoreinformationaboutthecompound,suchasitsnameoramorespecificSMILESnotation,Imaybeabletoprovideamoreaccurateprediction.",
+    "predicted_text": "I can't provide a temperature prediction for the given compound. However, I can tell you that the SMILES notation \"CCCCCCCCCCCCCCC(=O)O\" corresponds to a fatty acid, likely a long-chain carboxylic acid. The melting temperature of fatty acids can vary widely depending on their chain length and branching. If you provide more information about the compound, such as its name or a more specific SMILES notation, I may be able to provide a more accurate prediction."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC(=CC(=C1)CN)CN",
+    "Property": "Density",
+    "Value": 1.032,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.88",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular weight and molar volume. However, the molecular weight can be calculated from the SMILES string.\n\nThe SMILES string \"C1=CC(=CC(=C1)CN)CN\" represents a molecule with the following atoms: 1 carbon, 5 nitrogens, and 6 hydrogens. The atomic weights are approximately: carbon = 12.01 g/mol, nitrogen = 14.01 g/mol, and hydrogen = 1.008 g/mol.\n\nThe molecular weight can be calculated as follows:\n(1 * 12.01) + (5 * 14.01) + (6 * 1.008) = 12.01 + 70.05 + 6.048 = 88.108 g/mol\n\nHowever, to calculate the density, we need the molar volume. Unfortunately, the SMILES string does not provide enough information to calculate the molar volume directly. Therefore, we cannot provide a precise prediction of the density.\n\n#Prediction\n0.88"
+  },
+  {
+    "CompName": "Acetylferrocene",
+    "SMILES": "CC(=O)[C]1[CH][CH][CH][CH]1.[CH]1[CH][CH][CH][CH]1.[Fe]",
+    "Property": "Density",
+    "Value": 1.014,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.65",
+    "predicted_text": "#Prediction\n1.65\n\n#Reason\nTo predict the density of Acetylferrocene, we need to know its molecular structure and properties. However, the given SMILES string does not provide enough information to calculate the density directly. \n\nOne way to estimate the density is to use the molar mass and the molecular volume. The molar mass of Acetylferrocene can be calculated from its SMILES string, but the molecular volume is not directly available.\n\nAssuming a rough estimate of the molecular volume based on the number of atoms and the size of the molecule, we can make an educated guess. However, this method is not reliable and may not provide an accurate result.\n\nAnother approach is to look up the density of similar compounds. Ferrocene has a density of approximately 1.19 g/cm3. Acetylferrocene is a derivative of ferrocene, so we can assume that its density is slightly higher due to the addition of the acetyl group. A reasonable estimate would be to add 0.46 g/cm3 (the density of acetylferrocene's acetyl group) to the density of ferrocene.\n\nUsing this method, we can estimate the density of Acetylferrocene as follows:\n\nDensity of ferrocene = 1.19 g/cm3\nDensity of acetyl group = 0.46 g/cm3\nDensity of Acetylferrocene \u2248 1.19 + 0.46 = 1.65 g/cm3\n\nPlease note that this is a rough estimate and the actual density of Acetylferrocene may vary depending on the specific compound and its properties."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C#N",
+    "Property": "Vapor pressure",
+    "Value": 630.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.0796",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate the vapor pressure of a compound using its SMILES notation.\n\nTo estimate the vapor pressure, we can use the Lee-Kesler method, which is a group contribution method that uses a set of groups to estimate the vapor pressure of a compound. The method requires the SMILES notation of the compound and a set of group contributions.\n\nThe SMILES notation \"C#N\" indicates that the compound contains a carbon-nitrogen triple bond. Using the Lee-Kesler method, we can estimate the vapor pressure of this compound.\n\nThe group contributions for the carbon-nitrogen triple bond are:\n\n* Carbon: -0.55\n* Nitrogen: -0.55\n\nThe total group contribution is -1.1. Using the Lee-Kesler method, we can estimate the vapor pressure as follows:\n\nVapor pressure (kPa) = 10^(-1.1) = 0.0796 kPa\n\n#Prediction\n#0.0796"
+  },
+  {
+    "CompName": "Magnesium fluoride",
+    "SMILES": "[Mg+2].[F-].[F-]",
+    "Property": "Boiling temperature",
+    "Value": 2260.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe boiling temperature of Magnesium fluoride is predicted to be -20\u00b0C. This is because Magnesium fluoride is a compound that is known to be a solid at room temperature, and it has a relatively low melting temperature. The boiling temperature is typically higher than the melting temperature, but in this case, it is still a relatively low value."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "F[Sb](F)F",
+    "Property": "Boiling temperature",
+    "Value": 376.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-0.0",
+    "predicted_text": "#Prediction\n-0.0\n\n#Reason\nThe compound with the SMILES notation F[Sb](F)F is a compound with a fluorine atom bonded to an antimony atom, which is bonded to another fluorine atom. The boiling temperature of this compound is predicted to be -0.0 degrees Celsius."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCCCCCCCCCCC",
+    "Property": "Density",
+    "Value": 0.7564,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.846",
+    "predicted_text": "#Prediction\n0.846\n\n#Reason\nTo predict the density of the given compound, we can use the general density range for alkanes. Alkanes are a class of hydrocarbons with the general formula CnH2n+2. The density of alkanes generally increases with the increase in molecular weight. \n\nThe given SMILES notation \"CCCCCCCCCCCC\" represents a linear alkane with 10 carbon atoms. The molecular weight of this compound can be calculated using the atomic weights of carbon and hydrogen. The atomic weight of carbon is 12.01 g/mol, and the atomic weight of hydrogen is 1.008 g/mol. \n\nThe molecular weight of the compound is calculated as follows:\n(10 * 12.01) + (20 * 1.008) = 120.1 + 20.16 = 140.26 g/mol\n\nThe density of alkanes with 10-15 carbon atoms typically ranges from 0.75 to 0.85 g/cm3. Based on this range, we can predict the density of the given compound to be around 0.846 g/cm3."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CN(C)N=O",
+    "Property": "Vapor pressure",
+    "Value": 3.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionforthevaporpressureofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimateit.",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the vapor pressure of a compound, we can use the Abraham model, which is a linear free-energy relationship (LFER) that correlates the vapor pressure of a compound with its molecular properties. The Abraham model uses the following equation:\n\nlog P = c + eE + sS + aA + bB + vV + wW\n\nwhere:\n- P is the vapor pressure\n- c, e, s, a, b, v, and w are coefficients\n- E, S, A, B, V, and W are descriptors of the compound's molecular properties\n\nThe descriptors used in the Abraham model are:\n- E: excess molar refraction\n- S: solubility in water\n- A: surface area\n- B: number of hydrogen bond basic sites\n- V: McGowan volume\n- W: number of hydrogen bond acceptor sites\n\nTo use the Abraham model, we need to calculate or look up the values of these descriptors for the given compound. However, without the SMILES string, I can't calculate the descriptors.\n\nIf you provide the SMILES string, I can help you calculate the descriptors and use the Abraham model to estimate the vapor pressure."
+  },
+  {
+    "CompName": "Creatinine",
+    "SMILES": "CN1CC(=O)N=C1N",
+    "Property": "Melting temperature",
+    "Value": 300.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "120",
+    "predicted_text": "#Prediction\n#Reason\nTo predict the melting temperature of Creatinine, we need to consider its molecular structure and properties. However, without access to a database or a specific model for melting temperature prediction, I can provide a general approach to estimate it.\n\nCreatinine is a compound with a molecular structure that suggests it may have a relatively low melting temperature due to its molecular weight and the presence of nitrogen and oxygen atoms. However, without more specific information, it's challenging to provide an accurate prediction.\n\nOne possible approach is to look at the melting temperatures of similar compounds. Creatinine is a nitrogen-containing compound, and its melting temperature might be comparable to that of other nitrogen-containing compounds. For example, the melting temperature of urea, a compound with a similar molecular structure, is around 133.5\u00b0C.\n\nConsidering this, a rough estimate of the melting temperature of Creatinine could be in the range of 100-150\u00b0C. However, please note that this is a highly speculative prediction and should be taken as a rough estimate rather than an accurate value.\n\n#Prediction\n120"
+  },
+  {
+    "CompName": "Mercury(I) fluoride",
+    "SMILES": null,
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 26.5,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Reason\nUnfortunately, I cannot determine the absolute molar magnetic susceptibility of Mercury(I) fluoride as there is not enough information available in the provided data."
+  },
+  {
+    "CompName": "Rotenone",
+    "SMILES": "CC(=C)[C@H]1Cc2c(O1)ccc3c2O[C@@H]4COc5cc(OC)c(OC)cc5[C@@H]4C3=O",
+    "Property": "Density",
+    "Value": 1.27,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.044",
+    "predicted_text": "#Prediction\n1.044\n\n#Reason\nTo predict the density of Rotenone, we need to know its molecular structure and properties. However, the SMILES notation provided does not directly give us the density. \n\nOne way to estimate the density is to use the molar mass and the molecular volume. The molar mass of Rotenone can be calculated from its SMILES notation, which is 230.27 g/mol. \n\nThe molecular volume can be estimated using the van der Waals volume, which is a rough estimate of the volume occupied by a molecule. The van der Waals volume of Rotenone can be calculated using the SMILES notation, which is approximately 234.4 cm^3/mol.\n\nUsing the molar mass and the molecular volume, we can estimate the density as follows:\n\nDensity = Molar mass / Molecular volume\n= 230.27 g/mol / 234.4 cm^3/mol\n= 0.98 g/cm^3\n\nHowever, this is a rough estimate and the actual density of Rotenone may vary depending on the specific conditions and the method of measurement."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1CCC(CC1)S",
+    "Property": "Melting temperature",
+    "Value": -118.3333333,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation \"C1CCC(CC1)S\" is a cyclohexane derivative with a sulfur atom. The presence of the sulfur atom suggests that the compound is a sulfide. The melting temperature of cyclohexane is around -87.0 oC. However, the addition of a sulfur atom can affect the melting temperature. Sulfides generally have lower melting temperatures than their corresponding hydrocarbons. Considering this, a reasonable estimate for the melting temperature of this compound would be around -20 oC."
+  },
+  {
+    "CompName": "Copper(II) hydroxide",
+    "SMILES": "[Cu+2].[OH-].[OH-]",
+    "Property": "Melting temperature",
+    "Value": 80.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe melting temperature of Copper(II) hydroxide is predicted to be -20\u00b0C. This value is based on the general properties of copper(II) hydroxide, which is known to be a solid at room temperature."
+  },
+  {
+    "CompName": "Aminooxyacetic acid",
+    "SMILES": "O=C(O)CON",
+    "Property": "Density",
+    "Value": 1.375,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.95",
+    "predicted_text": "#Reason\nTo predict the density of Aminooxyacetic acid, we need to know its molecular structure and properties. However, the given SMILES string \"O=C(O)CON\" is incomplete and does not provide enough information to accurately calculate the density. \n\n#Prediction\n0.95"
+  },
+  {
+    "CompName": "Zinc phosphate",
+    "SMILES": "[Zn+2].[Zn+2].[Zn+2].[O-]P([O-])(=O)[O-].[O-]P([O-])([O-])=O",
+    "Property": "Melting temperature",
+    "Value": 900.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovidethemeltingtemperatureofZincphosphate.",
+    "predicted_text": "I can't provide the melting temperature of Zinc phosphate."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CN=CN1",
+    "Property": "Density",
+    "Value": 1.23,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.8",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure. The SMILES notation \"C1=CN=CN1\" represents a molecule with a central carbon atom bonded to two nitrogen atoms. This is a simple structure, likely a heterocyclic compound.\n\n#Prediction\n0.8"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[O-][Mn](=O)(=O)=O.[K+]",
+    "Property": "Decomposition temperature",
+    "Value": 240.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificdecompositiontemperatureforthegivencompound.However,Icangiveyousomegeneralinformationaboutthecompound.",
+    "predicted_text": "I can't provide a specific decomposition temperature for the given compound. However, I can give you some general information about the compound.\n\nThe compound with the SMILES [O-][Mn](=O)(=O)=O.[K+] is a potassium permanganate. \n\nPotassium permanganate is a strong oxidizing agent and is known to decompose at high temperatures. The decomposition temperature of potassium permanganate is typically around 240-250\u00b0C."
+  },
+  {
+    "CompName": "Acetic anhydride",
+    "SMILES": "O=C(OC(=O)C)C",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 52.8,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCC(=O)CCC",
+    "Property": "Flash temperature",
+    "Value": 48.88888889,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "I can't provide a prediction for the Flash temperature of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the Flash temperature of the given compound, we would typically use a method such as the group contribution method or a quantitative structure-property relationship (QSPR) model. These methods involve breaking down the compound into its constituent functional groups and using established values for each group to estimate the overall property.\n\nHowever, without access to specific group contribution values or a QSPR model, I can provide a general approach to estimate the Flash temperature.\n\nThe compound in question has a SMILES notation of CCCC(=O)CCC, which suggests it is an ester. Esters generally have relatively low Flash temperatures due to their weak intermolecular forces.\n\nA general range for the Flash temperature of esters can be between -20\u00b0C to 100\u00b0C, depending on the specific functional groups present. However, without more specific information about the compound, it's difficult to provide a more accurate estimate.\n\nIf you have more information about the compound, such as its molecular weight, boiling temperature, or other relevant properties, I may be able to provide a more accurate prediction.\n\n#Prediction\n#Reason\nThe Flash temperature of the compound cannot be accurately predicted without more information."
+  },
+  {
+    "CompName": "Selenium dioxide",
+    "SMILES": "O=[Se]=O",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 27.2,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000"
+  },
+  {
+    "CompName": "Zinc nitrate",
+    "SMILES": "[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Zn+2]",
+    "Property": "Boiling temperature",
+    "Value": 125.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "83",
+    "predicted_text": "#Prediction\n# 83\n\n#Reason\nTo predict the boiling temperature of Zinc nitrate, we need to consider its chemical properties. Zinc nitrate is a salt composed of zinc and nitrate ions. The boiling temperature of a salt is influenced by the strength of the ionic bonds between its ions and the intermolecular forces between the ions. \n\nZinc nitrate has a relatively high melting temperature, which suggests that it has strong ionic bonds. However, the boiling temperature is typically lower than the melting temperature due to the weaker intermolecular forces between the ions in the vapor phase. \n\nBased on the general trend of boiling temperatures for similar compounds, we can estimate the boiling temperature of Zinc nitrate."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1CCC2(CCCCC2(C1)[H])[H]",
+    "Property": "Density",
+    "Value": 0.8965,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.918",
+    "predicted_text": "#Reason\nTo predict the density of the given compound, we need to know its molecular structure and properties. However, the SMILES notation provided does not directly give us the molecular weight or the volume of the compound. \n\nGiven the SMILES notation \"C1CCC2(CCCCC2(C1)[H])[H]\", we can infer that it is an alkane with a cyclohexane ring. The molecular weight of this compound can be calculated using the atomic weights of carbon and hydrogen. \n\nThe molecular weight of the compound is approximately 84.17 g/mol. \n\nThe density of a substance is typically calculated using the formula: density = mass / volume. However, without knowing the exact volume of the compound, we cannot directly calculate its density.\n\n#Prediction\n0.918"
+  },
+  {
+    "CompName": "Lithium chloride",
+    "SMILES": "[Li+].[Cl-]",
+    "Property": "Boiling temperature",
+    "Value": 1382.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1330",
+    "predicted_text": "#Prediction\n#Reason\nTo predict the boiling temperature of Lithium chloride, we need to consider its chemical properties. Lithium chloride is a salt that consists of lithium ions and chloride ions. The boiling temperature of a salt is generally influenced by the strength of the ionic bonds between the ions and the size of the ions.\n\nLithium chloride has a relatively small ionic radius, which contributes to its high melting and boiling temperatures. Additionally, the strong electrostatic attraction between the lithium and chloride ions also contributes to its high boiling temperature.\n\nBased on these factors, we can estimate the boiling temperature of Lithium chloride to be around 1330 oC.\n\n#Prediction\n1330"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC(=C(C=C1Cl)Cl)OCCOS(=O)(=O)[O-].[Na+]",
+    "Property": "Vapor pressure",
+    "Value": 0.1,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tcarryoutthatcalculation.However,Icantellyouthatthecompoundinquestionissodium2,4-dichlorophenylacetate.",
+    "predicted_text": "I can't carry out that calculation. However, I can tell you that the compound in question is sodium 2,4-dichlorophenyl acetate."
+  },
+  {
+    "CompName": "O-Dianisidine",
+    "SMILES": "COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N ",
+    "Property": "Boiling temperature",
+    "Value": 356.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound O-Dianisidine has a boiling temperature of 343.0 oC. This prediction is based on the general boiling temperature range of similar compounds with similar molecular structures."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC1=CC=C(C=C1)[N+](=O)[O-]",
+    "Property": "Vapor pressure",
+    "Value": 0.1,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionforthevaporpressureofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimateit.",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the vapor pressure of the compound with the SMILES notation CC1=CC=C(C=C1)[N+](=O)[O-], we can use the following steps:\n\n1.  **Identify the compound**: The SMILES notation suggests that the compound is a nitrobenzene derivative. However, without a specific name, it's difficult to determine its exact identity.\n\n2.  **Gather data**: Collect the vapor pressure data for similar compounds. Since the exact compound is unknown, we can look at the vapor pressures of nitrobenzene and its derivatives.\n\n3.  **Apply a correlation**: Use a correlation between the molecular structure and vapor pressure. This can be done using a group contribution method or a quantitative structure-property relationship (QSPR) model.\n\n4.  **Estimate the vapor pressure**: Based on the correlation, estimate the vapor pressure of the compound.\n\nHowever, without more specific information about the compound, such as its exact structure or a known name, it's challenging to provide an accurate prediction.\n\nIf you have more information about the compound or its properties, I can try to provide a more accurate prediction."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(=O)([O-])[O-].[Ca+2]",
+    "Property": "Density",
+    "Value": 2.7,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.47",
+    "predicted_text": "#Prediction\n1.47\n\n#Reason\nTo predict the density of the compound, we need to know its molecular weight and molar volume. However, the molecular weight of the compound cannot be determined from the given SMILES string."
+  },
+  {
+    "CompName": "Acetanisole",
+    "SMILES": "CC(=O)C1=CC=C(C=C1)OC",
+    "Property": "Melting temperature",
+    "Value": 38.5,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n#Reason\nThe compound in question is Acetanisole, which is an organic compound. To predict its melting temperature, we need to consider its molecular structure and properties. However, without specific data or a detailed analysis of its crystal structure, intermolecular forces, and other relevant factors, an accurate prediction is challenging. Nevertheless, we can make an educated estimate based on general trends and properties of similar compounds.\n\nAcetanisole is an ether, which typically has a relatively low melting temperature due to the weak intermolecular forces between its molecules. Ethers are known to have melting temperatures ranging from around -100\u00b0C to 100\u00b0C, depending on the specific compound.\n\nGiven the lack of specific information about Acetanisole's melting temperature, we can make a rough estimate based on the general trend for ethers. A reasonable estimate for the melting temperature of Acetanisole could be around -20\u00b0C.\n\n#Prediction\n-20"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]",
+    "Property": "Melting temperature",
+    "Value": 80.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound in question is a nitro compound, which generally has a low melting temperature due to the presence of the nitro group. The melting temperature of nitro compounds can be influenced by the presence of other functional groups and the molecular structure. However, without more specific information about the compound's structure or properties, it is difficult to provide a more accurate prediction."
+  },
+  {
+    "CompName": "Triethylsilane",
+    "SMILES": "CC[SiH](CC)CC",
+    "Property": "Melting temperature",
+    "Value": -156.1,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nTo predict the melting temperature of Triethylsilane, we need to consider its chemical structure and properties. Triethylsilane is an organosilicon compound with a low molecular weight and a relatively simple structure. \n\nThe melting temperature of a compound is influenced by the strength of the intermolecular forces between its molecules. In the case of Triethylsilane, the molecules are held together by weak van der Waals forces, which are relatively weak compared to other types of intermolecular forces.\n\nConsidering the low molecular weight and the weak intermolecular forces, we can expect the melting temperature of Triethylsilane to be low."
+  },
+  {
+    "CompName": "Calcium nitrate",
+    "SMILES": "[Ca+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O",
+    "Property": "Density",
+    "Value": 2.504,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.33",
+    "predicted_text": "#Prediction\n1.33\n\n#Reason\nTo predict the density of Calcium nitrate, we need to know its molecular structure and the density of its constituent elements. The SMILES notation [Ca+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O represents the molecular structure of Calcium nitrate, which consists of one Calcium atom and two Nitrate groups.\n\nThe atomic masses of the elements in Calcium nitrate are:\n- Calcium (Ca): 40.078 g/mol\n- Nitrogen (N): 14.007 g/mol\n- Oxygen (O): 15.999 g/mol\n\nThe molar mass of Calcium nitrate can be calculated by summing the atomic masses of its constituent elements:\nMolar mass of Calcium nitrate = 1*40.078 + 2*(14.007 + 3*15.999) = 164.104 g/mol\n\nThe density of a compound can be predicted using the following formula:\nDensity = Molar mass / (Volume of the unit cell)\n\nHowever, without the crystal structure of Calcium nitrate, we cannot directly calculate its density. But we can use the density of similar compounds to make an estimate.\n\nThe density of Calcium nitrate is expected to be close to that of other calcium salts, which typically have a density range of 1.5-2.5 g/cm3. Considering the molecular structure and the presence of two nitrate groups, which are relatively large and have a high molecular weight, the density of Calcium nitrate is likely to be on the lower end of this range.\n\nTherefore, a reasonable estimate for the density of Calcium nitrate is 1.33 g/cm3."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[O-]S(=O)(=O)[O-].[K+].[K+]",
+    "Property": "Melting temperature",
+    "Value": 1069.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-50",
+    "predicted_text": "#Prediction\n-50\n\n#Reason\nThe compound given is potassium persulfate, a salt composed of potassium ions and the persulfate anion. The melting temperature of potassium persulfate is typically around -50\u00b0C."
+  },
+  {
+    "CompName": "Alloxan",
+    "SMILES": "C1(=O)C(=O)NC(=O)NC1=O",
+    "Property": "Melting temperature",
+    "Value": 254.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound Alloxan is a known oxaziridine compound. The melting temperature of Alloxan is not readily available in the database. However, based on the general properties of oxaziridines, they are typically low-melting compounds. Considering the molecular structure of Alloxan, it is likely to have a low melting temperature."
+  },
+  {
+    "CompName": "Naringenin",
+    "SMILES": "O=C2c3c(O[C@H](c1ccc(O)cc1)C2)cc(O)cc3O",
+    "Property": "Melting temperature",
+    "Value": 251.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "160",
+    "predicted_text": "#Prediction\n#Reason\nThe compound in question is Naringenin, which is a flavonoid found in various plants. The melting temperature of Naringenin is not readily available in the database. However, based on the general properties of flavonoids, we can make an educated prediction.\n\nFlavonoids are a class of compounds known for their diverse biological activities, including antioxidant, anti-inflammatory, and antimicrobial properties. The melting temperature of flavonoids can vary widely depending on their structure and molecular weight.\n\nNaringenin has a molecular weight of 272.24 g/mol and a molecular structure that consists of a benzene ring with a hydroxyl group attached to it. This structure suggests that Naringenin may have a relatively low melting temperature compared to other flavonoids.\n\nBased on the general trend of flavonoids, we can predict that the melting temperature of Naringenin is likely to be around 150-170\u00b0C.\n\n#Prediction\n160"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C",
+    "Property": "Melting temperature",
+    "Value": 155.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "64.0",
+    "predicted_text": "I can't provide a specific melting temperature for the given compound. However, I can guide you through a general approach to estimate the melting temperature of a compound based on its structure.\n\nThe compound in question has a SMILES notation of CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C. This notation suggests that the compound is a complex organic molecule with a mixture of aliphatic and aromatic rings, as well as an ester group.\n\nTo estimate the melting temperature, we can consider the following factors:\n\n1.  Molecular weight: The molecular weight of the compound is approximately 246.37 g/mol. Compounds with higher molecular weights tend to have higher melting temperatures.\n2.  Functional groups: The presence of an ester group (C(=O)) and a hydroxyl group (O) may contribute to the compound's melting temperature. Ester groups can form hydrogen bonds, which can increase the melting temperature, while hydroxyl groups can also participate in hydrogen bonding.\n3.  Ring structure: The compound contains multiple ring structures, which can contribute to its melting temperature. Rings can provide additional stability to the molecule, leading to a higher melting temperature.\n\nBased on these factors, we can estimate the melting temperature of the compound. However, without more specific information or experimental data, this is a rough estimate.\n\n#Prediction\n# 64.0"
+  },
+  {
+    "CompName": "Lithium carbonate",
+    "SMILES": "[Li+].[Li+].[O-]C([O-])=O",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 27.0,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000"
+  },
+  {
+    "CompName": "O-Dianisidine",
+    "SMILES": "COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N ",
+    "Property": "Density",
+    "Value": 1.178,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.35",
+    "predicted_text": "#Prediction\n1.35\n\n#Reason\nTo predict the density of O-Dianisidine, we need to consider its molecular structure and properties. The SMILES notation COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N suggests that the compound has a complex molecular structure with multiple rings and functional groups.\n\nHowever, without specific information about the compound's crystal structure or experimental data, it is challenging to accurately predict its density. Nevertheless, we can make an educated estimate based on general trends and properties of similar compounds.\n\nO-Dianisidine is a type of azo compound, which typically have densities in the range of 1.1-1.4 g/cm3. Considering the molecular weight of O-Dianisidine (approximately 196.23 g/mol) and its molecular structure, a reasonable estimate for its density would be around 1.35 g/cm3. This value is within the expected range for azo compounds and takes into account the compound's molecular weight and structure."
+  },
+  {
+    "CompName": "Lithium iodide",
+    "SMILES": "[Li+].[I-]",
+    "Property": "Melting temperature",
+    "Value": 469.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nTo predict the melting temperature of Lithium iodide, we need to consider its chemical properties. Lithium iodide is an ionic compound composed of lithium (Li+) and iodide (I-) ions. The melting temperature of ionic compounds is generally influenced by the strength of the ionic bonds between the ions and the size of the ions.\n\nLithium iodide has a relatively low melting temperature due to the relatively small size of the lithium ion and the relatively large size of the iodide ion. This results in a relatively weak ionic bond, which requires less energy to break, leading to a lower melting temperature.\n\nBased on the general trend of melting temperatures for ionic compounds, we can estimate the melting temperature of Lithium iodide to be around -20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(C#N)O",
+    "Property": "Melting temperature",
+    "Value": -72.22222222,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation C(C#N)O is likely to be a nitroalkane, specifically nitromethane. Nitromethane has a melting temperature of -20.3\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "COC(=O)C1=CC=CC=C1C(=O)OC",
+    "Property": "Density",
+    "Value": 1.19,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.23",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we can use the general density range for organic compounds. The compound in question has a molecular structure that suggests it is a relatively small molecule with a moderate molecular weight. \n\n#Prediction\n1.23"
+  },
+  {
+    "CompName": "Borazine",
+    "SMILES": "[BH-]1-[NH+]=[BH-]-[NH+]=[BH-]-[NH+]=1",
+    "Property": "Density",
+    "Value": 0.81,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "2.87",
+    "predicted_text": "#Prediction\n2.87\n\n#Reason\nTo predict the density of Borazine, we need to know its molecular structure and properties. However, the given SMILES notation [BH-]1-[NH+]=[BH-]-[NH+]=[BH-]-[NH+]=1 does not provide enough information to calculate the density directly.\n\nBut we can use the density of similar compounds to make an educated estimate. Borazine is a ring compound similar to benzene, but with boron and nitrogen atoms instead of carbon. The density of benzene is approximately 0.876 g/cm3. Boron and nitrogen have different atomic masses and densities compared to carbon, so we need to adjust the density accordingly.\n\nBoron has a density of 2.34 g/cm3 and nitrogen has a density of 1.25 g/cm3. The average atomic mass of boron and nitrogen in Borazine is approximately 10.8 g/mol, which is lower than the average atomic mass of carbon in benzene (12.01 g/mol). This suggests that Borazine would be less dense than benzene.\n\nTaking these factors into account, we can estimate the density of Borazine to be around 2.87 g/cm3."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1COCCN1",
+    "Property": "Density",
+    "Value": 1.007,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.95",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we can use the general density range for organic compounds. The SMILES notation \"C1COCCN1\" suggests that the compound is an organic compound with a molecular structure containing a ring and a nitrogen atom. \n\n#Prediction\n0.95"
+  },
+  {
+    "CompName": "Trimethylsilyl iodide",
+    "SMILES": "I[Si](C)(C)C",
+    "Property": "Boiling temperature",
+    "Value": 106.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nTo predict the boiling temperature of Trimethylsilyl iodide, we need to consider its molecular structure and properties. The compound has a molecular weight of 204.08 g/mol and a molecular structure consisting of a silicon atom bonded to three methyl groups and an iodine atom. \n\nThe boiling temperature of a compound is influenced by its intermolecular forces, molecular weight, and the strength of its bonds. In this case, the presence of the iodine atom, which is a halogen, suggests that the compound may have a relatively low boiling temperature due to the weak intermolecular forces between the molecules.\n\nAdditionally, the molecular weight of Trimethylsilyl iodide is relatively low, which also contributes to its low boiling temperature. \n\nConsidering these factors, a predicted boiling temperature of -20\u00b0C is reasonable."
+  },
+  {
+    "CompName": "Chloroprene",
+    "SMILES": "C=C(Cl)C=C",
+    "Property": "Melting temperature",
+    "Value": -130.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound in question is Chloroprene, which is a chlorinated hydrocarbon. The melting temperature of Chloroprene is not readily available in the database. However, based on the general properties of chlorinated hydrocarbons, it is expected to have a low melting temperature due to the presence of chlorine atoms, which disrupt the intermolecular forces between molecules, making it easier for the substance to transition from a solid to a liquid state."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[O-][As](=O)([O-])[O-].[Na+].[Na+].[Na+]",
+    "Property": "Density",
+    "Value": 2.835,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.47",
+    "predicted_text": "#Prediction\n1.47\n\n#Reason\nTo predict the density of the compound, we need to know its molecular weight and molar volume. However, the molecular weight of the compound cannot be determined from the given SMILES string."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(=O)OC",
+    "Property": "Boiling temperature",
+    "Value": 57.22222222,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound with the SMILES notation CC(=O)OC is likely to be Methyl formate. The boiling temperature of Methyl formate is 31.0 oC."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "Cl[Ag]",
+    "Property": "Density",
+    "Value": 5.56,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.96",
+    "predicted_text": "#Prediction\n0.96\n\n#Reason\nTo predict the density of the compound Cl[Ag], we need to know the density of its components. The density of silver (Ag) is 10.49 g/cm3, and the density of chlorine (Cl) is 0.003214 g/cm3. However, since chlorine is a gas at standard conditions, we can assume that the density of the compound will be dominated by the density of silver. Therefore, the predicted density of the compound Cl[Ag] is approximately 0.96 g/cm3."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(Cl)(Cl)Br",
+    "Property": "Melting temperature",
+    "Value": -57.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation C(Cl)(Cl)Br is 1,1,2,2-tetrachloro-1,2-dibromoethane. The melting temperature of this compound is -20\u00b0C."
+  },
+  {
+    "CompName": "Butylated hydroxytoluene",
+    "SMILES": "CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C",
+    "Property": "Melting temperature",
+    "Value": 70.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "120",
+    "predicted_text": "#Prediction\n#Reason\nTo predict the melting temperature of Butylated hydroxytoluene, we need to consider its chemical structure and properties. However, without access to a database or specific algorithms for melting temperature prediction, I can provide a general approach to estimate it.\n\nButylated hydroxytoluene is a complex organic compound with a molecular weight of 220.35 g/mol and a boiling temperature of 284.9\u00b0C. The melting temperature of a compound is influenced by its intermolecular forces, molecular weight, and the shape of its molecules.\n\nGiven the lack of specific data on the melting temperature of Butylated hydroxytoluene, we can make an educated estimate based on general trends. Typically, compounds with higher molecular weights and more complex structures tend to have higher melting temperatures.\n\nA rough estimate of the melting temperature can be made by considering the boiling temperature of the compound. The boiling temperature is often higher than the melting temperature, and the difference between the two can be used as a rough guide. However, this is not a precise method and should be taken as a rough estimate.\n\nBased on this approach, a possible melting temperature for Butylated hydroxytoluene could be around 100-150\u00b0C, but this is highly speculative and should be taken as a rough estimate.\n\n#Prediction\n120"
+  },
+  {
+    "CompName": "Tetrahydroisoquinoline",
+    "SMILES": "c1ccc2c(c1)CCNC2",
+    "Property": "Melting temperature",
+    "Value": -30.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound Tetrahydroisoquinoline has a melting temperature of 34."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(C)OCCO",
+    "Property": "Vapor pressure",
+    "Value": 3.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tcarryoutthatcalculation.However,IcantellyouthatthecompoundwiththeSMILESnotation\"CC(C)OCCO\"islikely2-Methyl-1,3-dioxolane.",
+    "predicted_text": "I can't carry out that calculation. However, I can tell you that the compound with the SMILES notation \"CC(C)OCCO\" is likely 2-Methyl-1,3-dioxolane."
+  },
+  {
+    "CompName": "Pine oil",
+    "SMILES": null,
+    "Property": "Density",
+    "Value": 0.95,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Reason\nUnfortunately, I cannot determine the density of Pine oil as there is not enough information available."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "COC(=O)C=C",
+    "Property": "Vapor pressure",
+    "Value": 65.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.0",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the vapor pressure of the given compound, we can use the group contribution method. This method involves breaking down the compound into its constituent functional groups and summing up their individual contributions to the vapor pressure.\n\nThe given compound has the SMILES notation COC(=O)C=C, which suggests it has an ester functional group. The vapor pressure of esters can be estimated using the group contribution method.\n\nHere's a general approach to estimate the vapor pressure:\n\n1.  Identify the functional groups present in the compound.\n2.  Look up the group contribution values for each functional group in a reliable source, such as the group contribution tables by Joback or Constantinou and Gani.\n3.  Sum up the group contributions to estimate the vapor pressure.\n\nHowever, without access to the specific group contribution values for the given compound, I can't provide a precise prediction. If you have more information about the compound or its properties, I may be able to help you better.\n\nIf you need a more accurate prediction, I recommend consulting a reliable source or using a software tool specifically designed for estimating physical properties, such as the group contribution method implemented in software like ChemRules or the NIST Chemistry WebBook.\n\n#Prediction\n0.0"
+  },
+  {
+    "CompName": "Dibenzo-1,4-dioxin",
+    "SMILES": "O1c3c(Oc2c1cccc2)cccc3",
+    "Property": "Melting temperature",
+    "Value": 122.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound Dibenzo-1,4-dioxin has a melting temperature of 96.0 oC. This prediction is based on the general properties of similar compounds in the same class. Dibenzo-1,4-dioxin is a polycyclic aromatic compound, and its melting temperature is influenced by the strength of the intermolecular forces between its molecules. The presence of the dioxin ring system contributes to the compound's high melting temperature due to the strong dipole-dipole interactions and London dispersion forces between the molecules."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CN=CC=N1",
+    "Property": "Melting temperature",
+    "Value": 52.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation \"C1=CN=CC=N1\" is likely a heterocyclic compound, specifically a pyridine derivative. The melting temperature of pyridine derivatives can vary widely depending on the specific substituents and structure. However, based on general trends, pyridine derivatives with a similar structure to the given compound typically have melting temperatures around -20\u00b0C. This prediction is based on the assumption that the compound is a relatively simple pyridine derivative with no strong electron-donating or electron-withdrawing groups that would significantly alter its melting temperature."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]",
+    "Property": "Melting temperature",
+    "Value": 13.88888889,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificmeltingtemperatureforthegivencompound.However,Icanguideyouthroughageneralapproachtopredictthemeltingtemperatureofacompound.",
+    "predicted_text": "I can't provide a specific melting temperature for the given compound. However, I can guide you through a general approach to predict the melting temperature of a compound.\n\nThe compound in question has the SMILES notation C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-], which represents a molecule with a central carbon atom bonded to four nitrogen-oxygen double bonds.\n\nTo predict the melting temperature, we would typically consider the following factors:\n\n1.  **Molecular weight**: The molecular weight of the compound can influence its melting temperature. A higher molecular weight often corresponds to a higher melting temperature.\n2.  **Intermolecular forces**: The strength of intermolecular forces, such as hydrogen bonding, dipole-dipole interactions, and van der Waals forces, can affect the melting temperature. Compounds with stronger intermolecular forces tend to have higher melting temperatures.\n3.  **Polarity**: The polarity of the compound can also impact its melting temperature. Polar compounds often have higher melting temperatures due to the presence of dipole-dipole interactions.\n\nGiven the SMILES notation, the compound appears to be a nitrate ester, which is a polar molecule. However, without more specific information about the compound's molecular weight, intermolecular forces, or polarity, it is challenging to provide an accurate prediction of its melting temperature.\n\nIf you have more information about the compound, such as its molecular structure or specific physical properties, I may be able to provide a more accurate prediction."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCCCS",
+    "Property": "Melting temperature",
+    "Value": -75.55555556,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation \"CCCCCS\" is a hydrocarbon with a chain of 6 carbon atoms and a sulfur atom at the end. This type of compound is likely to be a hexane with a thioether group. The melting temperature of such a compound is typically low due to the presence of the sulfur atom, which disrupts the intermolecular forces between the molecules, making it easier for them to move and change state. Based on this, a predicted melting temperature of -20\u00b0C is reasonable."
+  },
+  {
+    "CompName": "Thymine",
+    "SMILES": "Cc1c[nH]c(=O)[nH]c1=O",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 57.1,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000"
+  },
+  {
+    "CompName": "Toxaphene",
+    "SMILES": "C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl",
+    "Property": "Density",
+    "Value": 1.65,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.876",
+    "predicted_text": "#Reason\nTo predict the density of Toxaphene, we need to know its molecular structure and properties. However, the SMILES notation provided does not directly give us the molecular weight or the volume of the compound. \n\nTo estimate the density, we can use the molar mass of the compound. The molar mass of Toxaphene can be calculated from its SMILES notation. \n\n#Prediction\n1.876"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCC(C)OC(=O)C",
+    "Property": "Vapor pressure",
+    "Value": 10.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tcarryoutthatcalculation.However,IcantellyouthatthecompoundwiththeSMILESnotation\"CCC(C)OC(=O)C\"is2-Methylpropan-2-ylethanoate.",
+    "predicted_text": "I can't carry out that calculation. However, I can tell you that the compound with the SMILES notation \"CCC(C)OC(=O)C\" is 2-Methylpropan-2-yl ethanoate."
+  },
+  {
+    "CompName": "Tricalcium aluminate",
+    "SMILES": "[O-][Al-]0([O-])O[Al-]([O-])([O-])O[Al-]([O-])([O-])O[Al-]([O-])([O-])O[Al-]([O-])([O-])O[Al-]([O-])([O-])O0.[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2]",
+    "Property": "Melting temperature",
+    "Value": 1542.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "2340",
+    "predicted_text": "#Reason\nTo predict the melting temperature of Tricalcium aluminate, we need to consider its chemical structure and properties. Tricalcium aluminate is a compound with the chemical formula Ca3Al2O6. It is a type of calcium aluminate, which is a group of compounds that are known for their high melting temperatures.\n\n#Prediction\n2340"
+  },
+  {
+    "CompName": "Sodium perrhenate",
+    "SMILES": "[O-][Re](=O)(=O)=O.[Na+]",
+    "Property": "Density",
+    "Value": 5.39,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.45",
+    "predicted_text": "#Prediction\n1.45\n\n#Reason\nTo predict the density of Sodium perrhenate, we need to know the molar mass and the crystal structure of the compound. The molar mass of Sodium perrhenate can be calculated by summing the atomic masses of its constituent elements: Sodium (Na) and Rhenium (Re) and Oxygen (O). \n\nThe atomic masses are approximately: \n- Sodium (Na): 22.99 g/mol\n- Rhenium (Re): 186.21 g/mol\n- Oxygen (O): 16.00 g/mol\n\nThe molar mass of Sodium perrhenate is 22.99 + 186.21 + (3 * 16.00) = 245.20 g/mol.\n\nHowever, without information on the crystal structure, it's difficult to accurately predict the density. But we can use a general approach to estimate the density based on the molar mass and the assumption of a typical crystal structure.\n\nA common approach is to use the molar mass and the volume of the unit cell to estimate the density. However, without specific information on the unit cell parameters, we can use a general estimate based on the molar mass and the assumption of a typical crystal structure.\n\nA general estimate for the density of ionic compounds is around 2-5 g/cm3. Considering the molar mass of Sodium perrhenate (245.20 g/mol), we can estimate its density to be around 1.45 g/cm3, which falls within the general range of ionic compounds."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC(=CC=C1CC2=CC=C(C=C2)N)N",
+    "Property": "Melting temperature",
+    "Value": 92.22222222,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "I can't provide a specific melting temperature for the given compound. However, I can guide you through a general approach to predict the melting temperature of a compound.\n\nTo predict the melting temperature of a compound, we can consider various factors such as the molecular structure, intermolecular forces, and the compound's physical properties. However, without more information about the compound, such as its molecular weight, density, and specific heat capacity, it's challenging to provide an accurate prediction.\n\nThat being said, we can use some general guidelines to estimate the melting temperature. For example, compounds with strong intermolecular forces, such as hydrogen bonding or \u03c0-\u03c0 stacking, tend to have higher melting temperatures. On the other hand, compounds with weak intermolecular forces, such as van der Waals forces, tend to have lower melting temperatures.\n\nIn the case of the given compound, the SMILES notation suggests that it has a molecular structure with a planar, aromatic ring system and a nitrogen atom. This suggests that the compound may have some degree of \u03c0-\u03c0 stacking, which could contribute to its melting temperature.\n\nHowever, without more information about the compound, it's difficult to provide a specific prediction. If you have more information about the compound, such as its molecular weight or specific heat capacity, I may be able to provide a more accurate prediction.\n\n#Prediction\n#Reason\nUnfortunately, I am unable to provide a prediction for the melting temperature of the given compound."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCl",
+    "Property": "Vapor pressure",
+    "Value": 1000.0,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionforthevaporpressureofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimateit.",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the vapor pressure of a compound, we can use the modified Riedel method, which is a semi-empirical method that uses the molecular weight, boiling temperature, and the number of carbon atoms in the molecule to estimate the vapor pressure.\n\nThe formula for the modified Riedel method is:\n\nlog10(P) = -0.0123 * (M - 0.036) + 0.0006 * (Tb - 100) + 0.0001 * (nC - 1)\n\nWhere:\n- P is the vapor pressure in kPa\n- M is the molecular weight of the compound\n- Tb is the boiling temperature in Kelvin\n- nC is the number of carbon atoms in the molecule\n\nHowever, we need the boiling temperature of the compound to use this method. Unfortunately, I don't have access to the boiling temperature of the given compound.\n\nIf you provide the boiling temperature of the compound, I can help you estimate its vapor pressure using the modified Riedel method."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[F-].[Na+]",
+    "Property": "Boiling temperature",
+    "Value": 1703.888889,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "100",
+    "predicted_text": "#Prediction\n# 100\n\n#Reason\nThe compound is Sodium fluoride. The boiling temperature of Sodium fluoride is 100 degrees Celsius."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(#N)N",
+    "Property": "Melting temperature",
+    "Value": 45.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation \"C(#N)N\" is likely to be a nitrogen-rich compound, possibly a nitro compound. Nitro compounds are known to have low melting temperatures due to the strong dipole-dipole interactions between the nitro group and the surrounding molecules."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCOC(C)(OCC)OCC",
+    "Property": "Boiling temperature",
+    "Value": 145.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nThe compound with the SMILES notation CCOC(C)(OCC)OCC is likely to be 2,6,6-trimethylcyclohexa-1,3-diene-1-ethanol, also known as Limonene. The boiling temperature of Limonene is 176.0 oC."
+  },
+  {
+    "CompName": "Zinc nitrate",
+    "SMILES": "[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Zn+2]",
+    "Property": "Melting temperature",
+    "Value": 110.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe melting temperature of Zinc nitrate is -20\u00b0C."
+  },
+  {
+    "CompName": "Carbon tetrachloride",
+    "SMILES": "ClC(Cl)(Cl)Cl",
+    "Property": "Absolute standard enthalpy of formation",
+    "Value": 139.3,
+    "unit": "[kJ/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-187.0",
+    "predicted_text": "#Prediction\n-187.0\n\n#Reason\nTo predict the absolute standard enthalpy of formation of Carbon tetrachloride, we can use the standard enthalpies of formation of its constituent elements and the bond energies of the bonds formed during its formation.\n\nThe standard enthalpy of formation of carbon is -393.51 kJ/mol, and the standard enthalpy of formation of chlorine is 0 kJ/mol. The bond energies of the C-Cl bonds in carbon tetrachloride are approximately 339 kJ/mol.\n\nThe molecular structure of carbon tetrachloride is ClC(Cl)(Cl)Cl, which consists of one carbon atom bonded to four chlorine atoms. The formation of this molecule involves the formation of four C-Cl bonds.\n\nUsing the bond energies and the standard enthalpies of formation of the constituent elements, we can calculate the absolute standard enthalpy of formation of carbon tetrachloride as follows:\n\n\u0394Hf(CCl4) = 4 * \u0394Hf(C-Cl) + \u0394Hf(C) + 4 * \u0394Hf(Cl)\n= 4 * 339 kJ/mol + (-393.51 kJ/mol) + 4 * 0 kJ/mol\n= -187.0 kJ/mol"
+  },
+  {
+    "CompName": "Cyclopropane",
+    "SMILES": "C1CC1",
+    "Property": "Melting temperature",
+    "Value": -128.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-12",
+    "predicted_text": "#Prediction\n-12\n\n#Reason\nThe melting temperature of Cyclopropane is predicted to be -12\u00b0C. This prediction is based on the general properties of cyclopropane, a small, three-membered ring compound. Cyclopropane is a highly strained molecule due to the 60-degree bond angle, which results in a relatively low melting temperature. Typically, cyclopropane has a melting temperature of around -12\u00b0C, which is consistent with its small molecular size and high strain energy."
+  },
+  {
+    "CompName": "Pentafluoropropane",
+    "SMILES": "FC(F)CC(F)(F)F",
+    "Property": "Partition coefficient",
+    "Value": 1.68,
+    "unit": "[-]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificnumericalvalueforthePartitioncoefficientofPentafluoropropane.However,Icangiveyouageneralideaofhowtocalculateit.",
+    "predicted_text": "I can't provide a specific numerical value for the Partition coefficient of Pentafluoropropane. However, I can give you a general idea of how to calculate it.\n\nThe Partition coefficient, also known as the partition coefficient or distribution coefficient, is a measure of the distribution of a compound between two immiscible liquids, typically a solvent and a non-polar solvent like octanol or n-octanol. \n\nTo calculate the Partition coefficient, you would typically use the following formula:\n\nlog P = c log (Cw / Cs)\n\nWhere:\n- log P is the partition coefficient\n- c is a constant (usually 1)\n- Cw is the concentration of the compound in the water phase\n- Cs is the concentration of the compound in the solvent phase\n\nHowever, without more information about the specific conditions and the exact concentrations of the compound in the water and solvent phases, it's difficult to provide a precise numerical value for the Partition coefficient of Pentafluoropropane.\n\nIf you have more information about the conditions and concentrations, I can help you calculate the Partition coefficient."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCCCCCCCCCCCCCCCC(=O)O",
+    "Property": "Boiling temperature",
+    "Value": 361.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the given SMILES \"CCCCCCCCCCCCCCCCC(=O)O\" is a long-chain fatty acid. The boiling temperature of long-chain fatty acids generally decreases as the chain length increases. This is because the increased molecular weight and surface area of the molecule make it more difficult for the molecules to escape the liquid phase and turn into vapor."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl",
+    "Property": "Vapor pressure",
+    "Value": 0.01,
+    "unit": "[kPa]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionforthevaporpressureofthegivencompound.However,IcanguideyouthroughageneralapproachtoestimateitusingthegivenSMILESnotation.",
+    "predicted_text": "I can't provide a specific prediction for the vapor pressure of the given compound. However, I can guide you through a general approach to estimate it using the given SMILES notation.\n\nTo estimate the vapor pressure of the compound, we can use the group contribution method. This method involves breaking down the molecule into functional groups and assigning a contribution to the vapor pressure based on the group's properties.\n\nThe SMILES notation CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl indicates the presence of the following functional groups:\n\n- Alkane (CC)\n- Aromatic ring (C=C)\n- Ether (OP(=O))\n- Amine (NC)\n- Chlorine (Cl)\n\nUsing a group contribution method, we can estimate the vapor pressure of the compound. However, without a specific group contribution table or model, we cannot provide an accurate prediction.\n\nIf you have access to a group contribution table or a software that implements this method, you can use it to estimate the vapor pressure of the compound. Alternatively, you can use a more complex method such as the UNIFAC method, which requires a more detailed understanding of the molecule's structure and properties.\n\nPlease note that the accuracy of the prediction depends on the quality of the group contribution table or model used."
+  },
+  {
+    "CompName": "Borax",
+    "SMILES": "[Na+].[Na+].[O-]B1OB2OB([O-])OB(O1)O2.O.O.O.O.O.O.O.O.O.O",
+    "Property": "Refractive index",
+    "Value": 1.472,
+    "unit": "[-]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.47",
+    "predicted_text": "#Prediction\n1.47\n\n#Reason\nTo predict the refractive index of Borax, we need to consider its chemical structure and properties. Borax is a compound with a complex structure, but it is primarily composed of sodium, boron, and oxygen atoms. The refractive index of a compound is a measure of how much it bends light as it passes through it, and it is influenced by the compound's molecular structure and the interactions between its atoms.\n\nUnfortunately, I do not have access to a database of refractive indices for Borax. However, I can provide a general estimate based on the compound's properties. The refractive index of a compound is typically between 1.0 and 2.0, with most organic compounds having a refractive index between 1.3 and 1.5. Inorganic compounds like Borax tend to have a higher refractive index, often between 1.4 and 1.7.\n\nBased on this general trend, I predict the refractive index of Borax to be around 1.47. However, please note that this is a rough estimate and the actual refractive index of Borax may vary depending on the specific conditions and the method used to measure it."
+  },
+  {
+    "CompName": "Sodium fluoride",
+    "SMILES": null,
+    "Property": "Molar Heat Capacity",
+    "Value": 46.82,
+    "unit": "[J/mol/K]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "26.04",
+    "predicted_text": "#Prediction\n# 26.04\n\n#Reason\nTo predict the molar heat capacity of Sodium fluoride, we need to consider its molecular structure and properties. However, since the SMILES notation is not provided, we can't directly calculate the molar heat capacity using quantum mechanical methods or group contribution methods. \n\nInstead, we can use a general approach to estimate the molar heat capacity of an ionic compound like Sodium fluoride. The molar heat capacity of an ionic compound is typically around 26-30 J/mol/K, with some variation depending on the specific compound. \n\nIn this case, Sodium fluoride is a simple ionic compound with a relatively low molar heat capacity. Based on this general trend, we can estimate the molar heat capacity of Sodium fluoride to be around 26.04 J/mol/K."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[K]",
+    "Property": "Melting temperature",
+    "Value": 63.7,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation [K] is Potassium. The melting temperature of Potassium is -20.0 oC."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC=C(C=C1)NN",
+    "Property": "Decomposition temperature",
+    "Value": 243.3333333,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "200",
+    "predicted_text": "I can't provide a specific decomposition temperature for the given compound. However, I can give you some general information about the compound.\n\nThe SMILES notation \"C1=CC=C(C=C1)NN\" represents a compound with a benzene ring and two nitrogen atoms. This suggests that the compound is an aniline derivative.\n\nThe decomposition temperature of aniline derivatives can vary widely depending on their structure and properties. However, some general trends can be observed:\n\n* Aniline itself has a decomposition temperature of around 180-200\u00b0C.\n* Substituted anilines can have decomposition temperatures ranging from 150-250\u00b0C, depending on the substituent.\n\nWithout more specific information about the compound, it's difficult to provide a precise decomposition temperature. However, based on the general trends, a possible decomposition temperature for this compound could be around 180-220\u00b0C.\n\n#Prediction\n# 200\n\n#Reason\nThe decomposition temperature of aniline derivatives can vary widely depending on their structure and properties. However, based on the general trends, a possible decomposition temperature for this compound could be around 180-220\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[C-]#N.[Na+]",
+    "Property": "Melting temperature",
+    "Value": 563.8888889,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound given is Sodium Azide. The melting temperature of Sodium Azide is -20\u00b0C."
+  },
+  {
+    "CompName": "Boron trifluoride",
+    "SMILES": "FB(F)F",
+    "Property": "Melting temperature",
+    "Value": -126.8,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe melting temperature of Boron trifluoride is predicted to be -20\u00b0C. This prediction is based on the general trend of melting temperatures for compounds with similar structures and properties. Boron trifluoride is a gas at room temperature, which suggests that it has a low melting temperature."
+  },
+  {
+    "CompName": "Ergosterol",
+    "SMILES": "O[C@@H]4C/C3=C/C=C1\\[C@H](CC[C@]2([C@H]1CC[C@@H]2[C@@H](/C=C/[C@H](C)C(C)C)C)C)[C@@]3(C)CC4",
+    "Property": "Melting temperature",
+    "Value": 160.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificmeltingtemperatureforErgosterol.However,IcantellyouthatErgosterolisatypeofsterolfoundinfungi,anditsmeltingtemperatureisnotreadilyavailableinmydatabase.",
+    "predicted_text": "I can't provide a specific melting temperature for Ergosterol. However, I can tell you that Ergosterol is a type of sterol found in fungi, and its melting temperature is not readily available in my database."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(CCCCC(=O)O)CCCC(=O)O",
+    "Property": "Density",
+    "Value": 1.209,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.015",
+    "predicted_text": "#Reason\nTo predict the density of the given compound, we need to know its molecular structure and properties. However, the SMILES notation provided does not directly give us the molecular weight or the volume of the compound. \n\nGiven the SMILES notation C(CCCCC(=O)O)CCCC(=O)O, it represents a molecule with two ester groups. Esters are generally polar molecules with a relatively high molecular weight due to the presence of oxygen atoms. \n\nWithout more information about the specific molecular structure or properties, we can make an educated estimate based on general trends. Esters tend to have a density range of around 0.9-1.2 g/cm3, with most values falling in the range of 0.95-1.05 g/cm3.\n\n#Prediction\n1.015"
+  },
+  {
+    "CompName": "Ethylbenzene",
+    "SMILES": "CCc1ccccc1",
+    "Property": "Density",
+    "Value": 0.8665,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.87",
+    "predicted_text": "#Prediction\n1.87\n\n#Reason\nTo predict the density of Ethylbenzene, we can use the general density range for organic compounds. The density of organic compounds typically falls between 0.7 and 2.0 g/cm3. Ethylbenzene is a non-polar molecule with a relatively large molecular weight, which suggests that its density is likely to be on the higher end of this range."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zn+2]",
+    "Property": "Melting temperature",
+    "Value": 130.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovidethemeltingtemperatureofthecompound.However,Icansuggestsomepossiblewaystofindit.",
+    "predicted_text": "I can't provide the melting temperature of the compound. However, I can suggest some possible ways to find it. \n\n1.  **PubChem**: You can search for the compound on PubChem, a comprehensive database of chemical compounds. It provides a wide range of information, including melting temperatures.\n2.  **ChemSpider**: ChemSpider is another database that contains information on chemical compounds, including their physical properties like melting temperatures.\n3.  **SciFinder**: SciFinder is a powerful tool for searching chemical compounds and their properties. It's a paid service, but it provides accurate and reliable information.\n4.  **Google Search**: You can try searching for the compound on Google along with keywords like \"melting temperature\" or \"physical properties.\" This might lead you to relevant articles or websites that provide the information you're looking for.\n\nIf you provide the compound's name or a more detailed description, I can try to help you find the melting temperature."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCOC=O",
+    "Property": "Density",
+    "Value": 0.9073,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.87",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure and properties. The SMILES notation \"CCCOC=O\" represents a molecule with a carbon chain of three carbon atoms, an oxygen atom bonded to a carbon atom, and an oxygen atom double-bonded to the carbon atom. This suggests that the compound is a simple ether.\n\n#Prediction\n0.87"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "COc1c(C)c(C)c(cc1CC(C)N)OC",
+    "Property": "Refractive index",
+    "Value": 1.511,
+    "unit": "[-]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideaspecificpredictionfortherefractiveindexofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimatetherefractiveindexofacompound.",
+    "predicted_text": "I can't provide a specific prediction for the refractive index of the given compound. However, I can guide you through a general approach to estimate the refractive index of a compound.\n\nThe refractive index of a compound can be estimated using various methods, including the following:\n\n1.  **Ab initio calculations**: This method involves using quantum mechanical calculations to estimate the refractive index based on the molecular structure and electronic properties of the compound.\n2.  **Group contribution methods**: This method involves breaking down the molecular structure into functional groups and estimating the refractive index based on the contributions of these groups.\n3.  **Empirical correlations**: This method involves using empirical relationships between the refractive index and other physical properties of the compound, such as density or boiling temperature.\n\nTo estimate the refractive index of the given compound, we can use the following approach:\n\n1.  **Ab initio calculations**: Using quantum mechanical calculations, we can estimate the refractive index of the compound based on its molecular structure and electronic properties.\n2.  **Group contribution methods**: We can break down the molecular structure of the compound into functional groups and estimate the refractive index based on the contributions of these groups.\n\nHowever, without access to specific software or databases, I can provide a general estimate based on the molecular structure of the compound.\n\nThe given compound has a molecular structure that includes a combination of aromatic and aliphatic groups. Based on this structure, we can estimate the refractive index as follows:\n\n**Prediction**\n1.55\n\n**Reason**\n\nThe refractive index of the compound is estimated to be around 1.55. This value is based on the molecular structure of the compound, which includes a combination of aromatic and aliphatic groups. The presence of these groups suggests that the compound has a moderate refractive index, which is consistent with the estimated value of 1.55."
+  },
+  {
+    "CompName": "Methane",
+    "SMILES": "C",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 12.2,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CCCCOCCO",
+    "Property": "Density",
+    "Value": 0.9,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.81",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure. The SMILES notation \"CCCOCCO\" represents a molecule with the following structure: \n\nCH\u2083CH\u2082CH\u2082OCH\u2082CH\u2083\n\nThis compound is a butan-2-ol, a type of alcohol with a molecular weight of 74.12 g/mol.\n\n#Prediction\n0.81"
+  },
+  {
+    "CompName": "Zinc acetate",
+    "SMILES": "[Zn+2].[O-]C(=O)C.[O-]C(=O)C",
+    "Property": "Melting temperature",
+    "Value": 237.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nTo predict the melting temperature of Zinc acetate, we need to consider its chemical properties. Zinc acetate is a salt of zinc and acetic acid, and its melting temperature is typically low due to the weak intermolecular forces between its ions. The melting temperature of a salt is often influenced by the size and charge of its ions, as well as the strength of the electrostatic forces between them. In this case, the zinc ion (Zn2+) has a relatively small size and a high charge, which suggests that it may have a low melting temperature. Additionally, the acetate ion (OOCCH3-) is a relatively small and polarizable ion, which may also contribute to a low melting temperature."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[NH4+].[N+](=O)([O-])[O-]",
+    "Property": "Melting temperature",
+    "Value": 169.6,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the given SMILES [NH4+].[N+](=O)([O-])[O-] is Ammonium nitrate. The melting temperature of Ammonium nitrate is -20\u00b0C."
+  },
+  {
+    "CompName": "Tetrachloroethylene",
+    "SMILES": "Cl/C(Cl)=C(/Cl)Cl",
+    "Property": "Viscosity",
+    "Value": 0.89,
+    "unit": "[mPas]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Prediction\n#Reason\nUnfortunately, I cannot provide a prediction for the viscosity of Tetrachloroethylene."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC1=CC2=CC3=CC=CC=C3C=C2C=C1",
+    "Property": "Melting temperature",
+    "Value": 205.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "123.15",
+    "predicted_text": "#Reason\nTo predict the melting temperature of the given compound, we need to analyze its structure. The compound has a molecular structure represented by the SMILES notation \"CC1=CC2=CC3=CC=CC=C3C=C2C=C1\". This notation indicates a polycyclic aromatic compound with a specific arrangement of carbon and hydrogen atoms.\n\n#Prediction\n# 123.15"
+  },
+  {
+    "CompName": "Lead(II) chloride",
+    "SMILES": "Cl[Pb]Cl",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 73.8,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.000000",
+    "predicted_text": "#Prediction\n0.000000\n\n#Reason\nTo predict the absolute molar magnetic susceptibility of Lead(II) chloride, we need to consider the properties of the compound. Lead(II) chloride is an ionic compound composed of lead cations (Pb2+) and chloride anions (Cl-). The magnetic susceptibility of an ionic compound is typically very small, as the ions do not have unpaired electrons that contribute to magnetic moments.\n\nIn general, the magnetic susceptibility of a compound is influenced by the presence of unpaired electrons, which are typically found in transition metal ions. Since lead is a post-transition metal, it does not have unpaired electrons in its ground state. Therefore, the magnetic susceptibility of Lead(II) chloride is expected to be very small.\n\nBased on this reasoning, we can predict that the absolute molar magnetic susceptibility of Lead(II) chloride is 0.000000 [10^-6 cm3/mol]."
+  },
+  {
+    "CompName": "Chlorodifluoromethane",
+    "SMILES": "ClC(F)F",
+    "Property": "Melting temperature",
+    "Value": -175.42,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-19.0",
+    "predicted_text": "#Prediction\n-19.0\n\n#Reason\nThe melting temperature of Chlorodifluoromethane is predicted to be -19.0\u00b0C. This value is based on the general properties of chlorofluorocarbons (CFCs), which typically have low melting temperatures due to their low intermolecular forces. Chlorodifluoromethane, with its simple molecular structure and low molecular weight, is expected to have a relatively low melting temperature."
+  },
+  {
+    "CompName": "Ethyl lactate",
+    "SMILES": "CCOC(=O)C(C)O",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 72.6,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-0.000000",
+    "predicted_text": "#Prediction\n-0.000000\n\n#Reason\nTo predict the absolute molar magnetic susceptibility of Ethyl lactate, we need to consider the molecular structure and the types of bonds present in the compound. Ethyl lactate has a relatively simple structure with a lactate group and an ethyl group attached to the oxygen atom. The lactate group is a carboxylate ion, which is a common functional group found in many organic compounds.\n\nThe absolute molar magnetic susceptibility is a measure of the magnetic properties of a compound, specifically its response to an external magnetic field. In general, the magnetic susceptibility of a compound is influenced by the presence of unpaired electrons, which are typically found in transition metals or in molecules with unpaired electrons.\n\nIn the case of Ethyl lactate, there are no transition metals present, and the molecule does not have any unpaired electrons. The lactate group is a polar functional group, but it does not contribute to the magnetic susceptibility of the compound.\n\nBased on these considerations, we can predict that the absolute molar magnetic susceptibility of Ethyl lactate is very close to zero, as there are no significant magnetic properties present in the compound."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC(=CC=C1C2=CC=C(C=C2)N)N",
+    "Property": "Density",
+    "Value": 1.25,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.2",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we can use the general density range for organic compounds. The given SMILES string suggests that the compound is an aromatic compound with a nitrogen atom, which is a common functional group in many organic compounds.\n\n#Prediction\n1.2"
+  },
+  {
+    "CompName": "Carvone",
+    "SMILES": null,
+    "Property": "Boiling temperature",
+    "Value": 231.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Reason",
+    "predicted_text": "#Reason\nUnfortunately, I cannot determine the boiling temperature of Carvone as it is not a well-known compound."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[H]1[BH]234[BH]156[BH]278[BH]39([H]4)[BH]712[BH]853[BH]645[BH]311[BH]922[BH]14([H]5)[H]2",
+    "Property": "Density",
+    "Value": 0.94,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideapredictionofthedensityofthecompoundwiththegivenSMILESnotation.However,Icanguideyouthroughageneralapproachtoestimatethedensityofacompound.",
+    "predicted_text": "I can't provide a prediction of the density of the compound with the given SMILES notation. However, I can guide you through a general approach to estimate the density of a compound.\n\nTo estimate the density of a compound, we can use the molar mass and the volume of the molecule. The molar mass can be calculated from the SMILES notation by summing the atomic masses of all the atoms in the molecule. The volume of the molecule can be estimated using the van der Waals volume, which is a measure of the volume occupied by a molecule.\n\nHowever, without more information about the compound, such as its molecular structure or the specific SMILES notation, it's challenging to provide an accurate prediction of its density.\n\nIf you have more information about the compound or its molecular structure, I can try to help you estimate its density."
+  },
+  {
+    "CompName": "Tin(IV) iodide",
+    "SMILES": "[Sn](I)(I)(I)I",
+    "Property": "Density",
+    "Value": 4.56,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.93",
+    "predicted_text": "#Prediction\n1.93\n\n#Reason\nTo predict the density of Tin(IV) iodide, we need to know the molar mass and the crystal structure of the compound. The molar mass of Tin(IV) iodide can be calculated by summing the atomic masses of tin and four iodine atoms. The atomic mass of tin is 118.71 g/mol, and the atomic mass of iodine is 126.90 g/mol. Therefore, the molar mass of Tin(IV) iodide is 118.71 + 4 * 126.90 = 583.91 g/mol.\n\nThe crystal structure of Tin(IV) iodide is a cubic structure with a lattice parameter of 10.93 \u00c5. The density of a crystal can be calculated using the formula: density = (Z * M) / (N_A * a^3), where Z is the number of molecules per unit cell, M is the molar mass, N_A is Avogadro's number, and a is the lattice parameter.\n\nUsing the given lattice parameter and the calculated molar mass, we can calculate the density of Tin(IV) iodide."
+  },
+  {
+    "CompName": "Lanthanum oxide",
+    "SMILES": "[O-2].[O-2].[O-2].[La+3].[La+3]",
+    "Property": "Melting temperature",
+    "Value": 2315.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "2200",
+    "predicted_text": "#Prediction\n#Reason\nTo predict the melting temperature of Lanthanum oxide, we need to consider its chemical properties. Lanthanum oxide is a compound composed of lanthanum and oxygen. Lanthanum is a lanthanide metal with a high melting temperature, and oxygen is a nonmetal with a relatively low melting temperature. The melting temperature of a compound is influenced by the intermolecular forces between its constituent atoms or molecules.\n\nIn the case of Lanthanum oxide, the compound is composed of a lanthanum ion (La+3) and an oxide ion (O-2). The strong electrostatic attraction between the positively charged lanthanum ion and the negatively charged oxide ion results in a high melting temperature.\n\nBased on the properties of lanthanum and oxygen, and considering the ionic nature of the compound, we can estimate the melting temperature of Lanthanum oxide.\n\n#Prediction\n2200"
+  },
+  {
+    "CompName": "Nitric acid",
+    "SMILES": "[N+](=O)(O)[O-]",
+    "Property": "Melting temperature",
+    "Value": -42.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-50",
+    "predicted_text": "#Prediction\n-50\n\n#Reason\nThe compound in question is Nitric acid, which is a strong acid and a liquid at room temperature. The melting temperature of Nitric acid is typically around -42.85\u00b0C. However, the exact value can vary slightly depending on the specific conditions and the source of the data."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(=O)O",
+    "Property": "Melting temperature",
+    "Value": 8.25,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation C(=O)O is likely to be dimethyl peroxide. The melting temperature of dimethyl peroxide is -20\u00b0C."
+  },
+  {
+    "CompName": "Oxalic acid",
+    "SMILES": "C(=O)(C(=O)O)O",
+    "Property": "Absolute molar magnetic susceptibility",
+    "Value": 60.05,
+    "unit": "[10^-6 cm3/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-0.000000",
+    "predicted_text": "#Prediction\n-0.000000"
+  },
+  {
+    "CompName": "Lead(II) sulfide",
+    "SMILES": "[Pb]=S",
+    "Property": "Boiling temperature",
+    "Value": 1281.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe boiling temperature of Lead(II) sulfide is predicted to be -20\u00b0C. This prediction is based on the general properties of lead(II) sulfide, which is a compound that typically has a low melting and boiling temperature due to the weak intermolecular forces between its molecules."
+  },
+  {
+    "CompName": "Sodium bromate",
+    "SMILES": "[Na+].[O-]Br(=O)=O",
+    "Property": "Absolute standard enthalpy of formation",
+    "Value": 342.5,
+    "unit": "[kJ/mol]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-1.0",
+    "predicted_text": "#Prediction\n-1.0\n\n#Reason\nTo predict the absolute standard enthalpy of formation of Sodium bromate, we need to consider the standard enthalpies of formation of its constituent elements and the bond energies involved in the formation of the compound.\n\nThe standard enthalpy of formation of Sodium (Na) is -241.0 kJ/mol, and the standard enthalpy of formation of Bromine (Br2) is 0.0 kJ/mol. The standard enthalpy of formation of Oxygen (O2) is 0.0 kJ/mol.\n\nThe bond energy of the Na-O bond is approximately 424.8 kJ/mol, and the bond energy of the O-O bond is approximately 146.0 kJ/mol. The bond energy of the O-Br bond is approximately 247.0 kJ/mol.\n\nUsing these values, we can calculate the absolute standard enthalpy of formation of Sodium bromate as follows:\n\n\u0394Hf(Sodium bromate) = \u0394Hf(Na) + \u0394Hf(Br2) + \u0394Hf(O2) - (\u0394Hf(Na) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394Hf(O) + \u0394"
+  },
+  {
+    "CompName": "Trifluoroperacetic acid",
+    "SMILES": "C(=O)(C(F)(F)F)OO",
+    "Property": "Boiling temperature",
+    "Value": 162.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nTo predict the boiling temperature of Trifluoroperacetic acid, we need to consider its chemical structure and properties. The compound has a peracetic acid group, which is known to have a relatively low boiling temperature due to its weak intermolecular forces. Additionally, the trifluoromethyl group attached to the oxygen atom may also contribute to a lower boiling temperature due to its electron-withdrawing effect. However, the exact boiling temperature of this compound is not readily available in the database, so we will use a general estimate based on similar compounds."
+  },
+  {
+    "CompName": "Tropolone",
+    "SMILES": "C1=CC=C(C(=O)C=C1)O",
+    "Property": "Boiling temperature",
+    "Value": 80.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "220",
+    "predicted_text": "#Prediction\n#Reason\nThe compound in question is Tropolone, which has the SMILES notation C1=CC=C(C(=O)C=C1)O. To predict its boiling temperature, we need to consider its molecular structure and properties.\n\nTropolone is a heterocyclic compound with a six-membered ring containing two double bonds and an oxygen atom. This structure suggests that it may have a relatively high boiling temperature due to the strong intermolecular forces between its molecules.\n\nHowever, without specific data on the compound's boiling temperature, we can make an educated estimate based on general trends in organic chemistry. Compounds with similar structures and properties tend to have boiling temperatures in the range of 150-300\u00b0C.\n\nTaking into account the molecular weight and the presence of the oxygen atom, which can form hydrogen bonds, we can estimate the boiling temperature of Tropolone to be around 220\u00b0C.\n\n#Prediction\n220"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(=CC(=O)C)C",
+    "Property": "Density",
+    "Value": 0.86,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.235",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure. The SMILES notation CC(=CC(=O)C)C represents a molecule with a molecular weight of 72.12 g/mol. However, without a specific molecular structure, we cannot accurately calculate the density. \n\n#Prediction\n1.235"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(=O)(F)F",
+    "Property": "Melting temperature",
+    "Value": -113.8888889,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound with the SMILES notation C(=O)(F)F is a fluorinated compound, specifically a difluoromethyl ester. The melting temperature of such compounds can vary widely depending on their structure and properties. However, based on general trends and the presence of fluorine atoms, which can lower the melting temperature due to their low intermolecular forces, a predicted melting temperature of -20\u00b0C is reasonable."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1CC2=CC=CC=C2C=C1",
+    "Property": "Refractive index",
+    "Value": 1.582,
+    "unit": "[-]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideapredictionoftherefractiveindexofthecompoundwiththegivenSMILES.However,Icansuggestsomegeneralinformationaboutthecompound.",
+    "predicted_text": "I can't provide a prediction of the refractive index of the compound with the given SMILES. However, I can suggest some general information about the compound.\n\nThe SMILES notation \"C1CC2=CC=CC=C2C=C1\" represents a benzene ring with a methyl group attached to it, which is likely a toluene derivative. The refractive index of toluene is 1.496 at 20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "COc1ccc(cc1)N",
+    "Property": "Melting temperature",
+    "Value": 57.22222222,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "**",
+    "predicted_text": "I can't provide a specific melting temperature for the given compound. However, I can guide you through a general approach to predict the melting temperature of a compound.\n\nTo predict the melting temperature of a compound, we would typically use a combination of theoretical models and experimental data. However, without access to specific software or databases, I can provide a general outline of the factors that influence melting temperature and a hypothetical approach to estimate it.\n\nThe melting temperature of a compound is influenced by several factors, including:\n\n1.  Molecular weight: Higher molecular weight compounds tend to have higher melting temperatures.\n2.  Molecular structure: The shape and arrangement of atoms in a molecule can affect its melting temperature.\n3.  Intermolecular forces: The strength of intermolecular forces, such as hydrogen bonding, dipole-dipole interactions, and van der Waals forces, can influence the melting temperature.\n4.  Polarity: Polar compounds tend to have higher melting temperatures than nonpolar compounds.\n\nGiven the SMILES notation COc1ccc(cc1)N, the compound appears to be a nitrogen-containing aromatic compound. Without specific information about its molecular weight, structure, or intermolecular forces, it's challenging to provide an accurate prediction.\n\nHowever, if we were to use a hypothetical approach, we might consider the following:\n\n*   The compound has a molecular weight of approximately 95.11 g/mol (calculated from the SMILES notation).\n*   The presence of a nitrogen atom suggests that the compound may exhibit some degree of polarity, which could contribute to a higher melting temperature.\n*   The aromatic ring structure may also contribute to the compound's melting temperature.\n\nBased on these hypothetical considerations, a rough estimate of the melting temperature might be in the range of 50-100\u00b0C. However, this is highly speculative and should not be taken as an accurate prediction.\n\n**#Prediction**\n75\n\n**#Reason**\nThe prediction is based on a hypothetical approach, considering the molecular weight, polarity, and aromatic structure of the compound. However, this is a rough estimate and should not be taken as an accurate prediction."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "[H]1[BH]2[H][BH]3[BH]24[BH]1[H][BH]4[H]3",
+    "Property": "Boiling temperature",
+    "Value": 60.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-0.1",
+    "predicted_text": "#Prediction\n-0.1\n\n#Reason\nThe compound is a borane, which is a type of boron hydride. Boranes are known to have very low boiling temperatures due to their weak intermolecular forces. The given SMILES notation suggests that the compound has a structure with multiple boron and hydrogen atoms, which is consistent with a borane. Based on the general properties of boranes, a boiling temperature of -0.1\u00b0C is a reasonable prediction."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C1=CC(=CC(=C1)C#N)C#N",
+    "Property": "Density",
+    "Value": 4.42,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.23",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure and properties. However, the given SMILES string does not provide enough information to calculate the density directly. \n\nOne way to estimate the density is to use the molar mass and the molecular volume. The molar mass can be calculated from the SMILES string, but the molecular volume is not directly available.\n\nAssuming the compound is a typical organic compound, we can estimate the density using the molar mass and a general density range for organic compounds. The molar mass of the compound can be calculated as follows:\n\nMolar mass = 78.11 g/mol\n\nThe density of organic compounds typically ranges from 0.7 to 2.0 g/cm3. We can use this range to estimate the density of the compound.\n\n#Prediction\n1.23"
+  },
+  {
+    "CompName": "Thorium(IV) chloride",
+    "SMILES": "Cl[Th](Cl)(Cl)Cl",
+    "Property": "Melting temperature",
+    "Value": 770.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-173.0",
+    "predicted_text": "#Prediction\n-173.0\n\n#Reason\nTo predict the melting temperature of Thorium(IV) chloride, we need to consider its chemical properties. Thorium(IV) chloride is an inorganic compound with the chemical formula ThCl4. \n\nThe melting temperature of a compound is influenced by the strength of the intermolecular forces between its molecules. In the case of Thorium(IV) chloride, the intermolecular forces are primarily ionic in nature due to the presence of chloride ions and the thorium cation. \n\nHowever, the exact melting temperature of Thorium(IV) chloride is not readily available in the provided information. Therefore, I will provide a predicted value based on general trends and properties of similar compounds.\n\nThorium(IV) chloride is a solid at room temperature, which suggests that its melting temperature is below 0\u00b0C. Considering the ionic nature of the compound and the general trend of melting temperatures for similar compounds, a predicted melting temperature of -173.0\u00b0C is reasonable."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C[Pb](C)(C)C",
+    "Property": "Ionization Energy",
+    "Value": 8.5,
+    "unit": "[eV]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "7.42",
+    "predicted_text": "I can't provide a specific prediction for the ionization energy of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the ionization energy of the compound with the SMILES notation C[Pb](C)(C)C, we need to consider the properties of the elements involved. The compound contains lead (Pb) and carbon (C).\n\n1.  **Lead (Pb):** Lead is a post-transition metal with a relatively low ionization energy due to its large atomic size and low electronegativity. The ionization energy of lead is approximately 7.42 eV.\n\n2.  **Carbon (C):** Carbon is a nonmetal with a relatively high ionization energy due to its small atomic size and high electronegativity. The ionization energy of carbon is approximately 11.26 eV.\n\n3.  **Compound Ionization Energy:** The ionization energy of a compound is generally lower than the ionization energy of its constituent elements. However, without more specific information about the compound's structure and bonding, it's challenging to provide an accurate prediction.\n\nConsidering the general trend that the ionization energy of a compound is lower than that of its constituent elements, we can make a rough estimate. However, please note that this is a simplified approach and the actual ionization energy may vary depending on the specific compound and its properties.\n\n#Prediction\n7.42"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "COC(=O)C=C",
+    "Property": "Density",
+    "Value": 0.96,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.95",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure and properties. However, the given SMILES notation \"COC(=O)C=C\" suggests that the compound is a simple organic molecule with a molecular weight that can be calculated. \n\nThe SMILES notation indicates that the compound has a molecular structure consisting of a carbon atom bonded to a carbon-oxygen double bond, a carbon atom bonded to an oxygen atom, and a carbon atom bonded to a carbon atom. This suggests that the compound is likely to be a small molecule with a relatively low molecular weight.\n\n#Prediction\n0.95"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC(=CC(=O)NC)OP(=O)(OC)OC",
+    "Property": "Flash temperature",
+    "Value": 93.33333333,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "Ican'tprovideapredictionfortheFlashtemperatureofthegivencompound.However,Icanguideyouthroughageneralapproachtoestimateit.",
+    "predicted_text": "I can't provide a prediction for the Flash temperature of the given compound. However, I can guide you through a general approach to estimate it.\n\nTo estimate the Flash temperature of the given compound, we would typically use a combination of theoretical and empirical methods. \n\n1.  **Theoretical Methods**: These methods involve using computational models to predict the physical properties of a compound based on its molecular structure. Some common theoretical methods include:\n    *   Group Contribution Methods: These methods estimate the physical properties of a compound by summing the contributions of its functional groups.\n    *   Molecular Mechanics: This method uses classical mechanics to simulate the behavior of molecules and estimate their physical properties.\n    *   Quantum Mechanics: This method uses the principles of quantum mechanics to estimate the physical properties of molecules.\n\n2.  **Empirical Methods**: These methods involve using experimental data from similar compounds to estimate the physical properties of a compound. Some common empirical methods include:\n    *   Correlation Methods: These methods use statistical models to relate the physical properties of a compound to its molecular structure.\n    *   Regression Analysis: This method uses statistical models to estimate the physical properties of a compound based on experimental data.\n\nHowever, without access to specific software or databases, I can't provide a precise prediction for the Flash temperature of the given compound.\n\nIf you have access to software like ChemDraw, ChemBioDraw, or other molecular modeling tools, you can use them to estimate the Flash temperature of the compound. Alternatively, you can search for the compound in databases like PubChem or ChemSpider, which may provide estimated Flash temperatures for similar compounds.\n\nIf you have any further information about the compound, such as its molecular structure or functional groups, I may be able to provide a more general estimate."
+  },
+  {
+    "CompName": "Vanadium(III) fluoride",
+    "SMILES": "[V+3].[F-].[F-].[F-]",
+    "Property": "Melting temperature",
+    "Value": 1395.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe compound Vanadium(III) fluoride has a melting temperature of -20\u00b0C."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(C(CO)O)O",
+    "Property": "Density",
+    "Value": 1.26,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.95",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure and properties. However, the given SMILES notation \"C(C(CO)O)O\" suggests that the compound is a simple organic molecule with a molecular weight that can be calculated.\n\n#Prediction\n0.95"
+  },
+  {
+    "CompName": "Pyrrole",
+    "SMILES": "N1C=CC=C1",
+    "Property": "Viscosity",
+    "Value": 1.225,
+    "unit": "[mPas]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "0.5",
+    "predicted_text": "I can't provide a specific viscosity value for the compound Pyrrole (SMILES: N1C=CC=C1) as the viscosity of a compound can vary greatly depending on the conditions and the specific form of the compound (e.g., liquid, solid, or gas). However, I can provide some general information about the compound.\n\nPyrrole is a heterocyclic aromatic organic compound with a five-membered ring structure. It is a colorless liquid at room temperature. The viscosity of a compound is a measure of its resistance to flow, and it is typically measured in units of millipascal-seconds (mPa\u00b7s).\n\nTo predict the viscosity of Pyrrole, we would need more specific information about the conditions under which it is being measured, such as temperature and pressure. However, I can provide some general information about the viscosity of similar compounds.\n\nThe viscosity of liquids can be influenced by their molecular weight, size, and intermolecular forces. Pyrrole has a molecular weight of 67.09 g/mol and a relatively small molecular size. Its intermolecular forces are likely to be relatively weak due to its aromatic nature.\n\nBased on this information, we can make an educated guess about the viscosity of Pyrrole. However, please note that this is a rough estimate and should be taken as a rough order of magnitude.\n\n#Prediction\n# 0.5"
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "C(C(CBr)Br)Cl",
+    "Property": "Density",
+    "Value": 2.05,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.23",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we need to know its molecular structure and properties. However, the given SMILES notation \"C(C(CBr)Br)Cl\" suggests that the compound is a halogenated alkane. The density of halogenated alkanes can vary depending on the type and number of halogen atoms present.\n\n#Prediction\n1.23"
+  },
+  {
+    "CompName": "Iron(II) chloride",
+    "SMILES": "Cl[Fe]Cl",
+    "Property": "Boiling temperature",
+    "Value": 1023.0,
+    "unit": "[oC]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "-20",
+    "predicted_text": "#Prediction\n-20\n\n#Reason\nThe boiling temperature of Iron(II) chloride is predicted to be -20\u00b0C. This is based on the general properties of transition metal halides, which often have low boiling temperatures due to their ionic nature and weak intermolecular forces."
+  },
+  {
+    "CompName": "2,5-Furandicarboxylic acid",
+    "SMILES": "C1=C(OC(=C1)C(=O)O)C(=O)O",
+    "Property": "Density",
+    "Value": 1.604,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.55",
+    "predicted_text": "#Prediction\n1.55\n\n#Reason\nTo predict the density of 2,5-Furandicarboxylic acid, we need to consider its molecular structure and properties. The SMILES notation C1=C(OC(=C1)C(=O)O)C(=O)O indicates that the compound has a furan ring with two carboxylic acid groups attached. \n\nThe density of a compound is typically in the range of 0.5-2.0 g/cm3. Given the molecular structure of 2,5-Furandicarboxylic acid, it is likely to have a density in this range.\n\nBased on the molecular weight of 2,5-Furandicarboxylic acid (146.09 g/mol) and its molecular volume, we can estimate its density. However, without specific data on the molecular volume, we cannot provide an exact calculation. \n\nTherefore, based on general knowledge and the molecular structure, a predicted density of 1.55 g/cm3 is a reasonable estimate."
+  },
+  {
+    "CompName": "unknown",
+    "SMILES": "CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC",
+    "Property": "Density",
+    "Value": 1.25,
+    "unit": "[g/cm3]",
+    "Source": "Wikipedia/Wikidata",
+    "predicted_value": "1.05",
+    "predicted_text": "#Reason\nTo predict the density of the compound, we can use the general density range for similar compounds. The compound in question has a structure that suggests it is a sulfur-containing compound, likely an organosulfur compound. Organosulfur compounds can have a wide range of densities, but a common range for such compounds is between 0.8 and 1.2 g/cm3.\n\n#Prediction\n1.05"
+  }
+]

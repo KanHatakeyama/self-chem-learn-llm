@@ -1,0 +1,8 @@
+export LD_LIBRARY_PATH=/home/setup/miniconda3/envs/sft/lib/python3.11/site-packages/nvidia/nvjitlink/lib:$LD_LIBRARY_PATH
+
+sleep 1
+echo "sleep 1"
+
+sleep 18000 
+python run.py llama3_1_8b_3_lora.yaml --accelerate_config zero1.yaml
+

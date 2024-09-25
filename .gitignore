@@ -161,7 +161,8 @@ cython_debug/
 
 */data/*
 */output*
-*/1/output
+*/1/output*
+output*
 sftlab-experiments
-*/sftlab/output
+*/sftlab/output*
 #*/eval_results/*
