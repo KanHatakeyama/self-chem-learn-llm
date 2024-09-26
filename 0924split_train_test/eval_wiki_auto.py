@@ -17,6 +17,63 @@ python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/lora_r_llama/1/out
     --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" \
     --mode train
 
+#lora with fifferent r
+conda activate llama
+export CUDA_VISIBLE_DEVICES=0
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all/1/output3/sftlab-experiments/lora_llama_all/1-llama3_1_8b_4_lora_full-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r128" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" 
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all/1/output3/sftlab-experiments/lora_llama_all/1-llama3_1_8b_4_lora_full-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r128" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" \
+    --mode train
+    
+conda activate llama
+export CUDA_VISIBLE_DEVICES=1
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r256/1/output3/sftlab-experiments/lora_llama_all_r256/1-llama3_1_8b_5_lora_full_r256-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r256" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" 
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r256/1/output3/sftlab-experiments/lora_llama_all_r256/1-llama3_1_8b_5_lora_full_r256-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r256" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" \
+    --mode train
+
+ 
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=2
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r512/1/output3/sftlab-experiments/lora_llama_all_r512/1-llama3_1_8b_6_lora_full_r512-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r512" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" 
+    --mode train
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r512/1/output3/sftlab-experiments/lora_llama_all_r512/1-llama3_1_8b_6_lora_full_r512-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r512" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" \
+ 
+conda activate llama
+export CUDA_VISIBLE_DEVICES=3
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r1024/1/output3/sftlab-experiments/lora_llama_all_r1024/1-llama3_1_8b_7_lora_full_r1024-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r1024" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" 
+    --mode train
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r1024/1/output3/sftlab-experiments/lora_llama_all_r1024/1-llama3_1_8b_7_lora_full_r1024-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r1024" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" \
+ 
+conda activate llama
+export CUDA_VISIBLE_DEVICES=4
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r2048/1/output3/sftlab-experiments/lora_llama_all_r2048/1-llama3_1_8b_7_lora_full_r2048-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r2048" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" 
+    --mode train
+ python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/lora_llama_all_r2048/1/output3/sftlab-experiments/lora_llama_all_r2048/1-llama3_1_8b_7_lora_full_r2048-zero1" \
+    --tensor_parallel_size 1 --out_path "eval_results_lora_r2048" \
+    --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" \
+ 
+
+
+    
+
 
 """
 
@@ -151,7 +208,7 @@ for model_id in model_dir_list:
         trust_remote_code=True,
         max_model_len=2000,
         tensor_parallel_size=tensor_parallel_size,
-        max_lora_rank=128,
+        max_lora_rank=256,
         enable_lora=enable_lora,
     )
 

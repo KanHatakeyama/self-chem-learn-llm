@@ -60,7 +60,7 @@ parser.add_argument('--tensor_parallel_size', type=int,
 parser.add_argument('--mode', type=str,
                     default="test", help='test or train')
 parser.add_argument('--out_path', type=str,
-                    default="eval_results", help='output dir')
+                    default="eval_results_", help='output dir')
 
 
 args = parser.parse_args()
@@ -168,6 +168,6 @@ for i in tqdm(range(0, len(target_ds), batch_size)):
 
 # %%
 os.makedirs(out_path, exist_ok=True)
-save_path = f"out_path/{model_id.replace('/','_')}_{mode}.json"
+save_path = f"{out_path}/{model_id.replace('/','_')}_{mode}.json"
 with open(save_path, "w") as f:
     json.dump(predictions, f, indent=2)
