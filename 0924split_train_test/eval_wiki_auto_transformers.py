@@ -10,6 +10,28 @@ python eval_wiki_auto_transformers.py --checkpoint_dir "/data/hatakeyama/self-lo
 python eval_wiki_auto_transformers.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3" \
    --out_path "eval_results_lora_r128_70b" --mode train
 
+python eval_wiki_auto_transformers.py --checkpoint_dir "none" --model_id "/data/hatakeyama/self-loop/925split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3/checkpoint-10" \
+   --out_path "eval_results_lora_r128_70b" --mode test
+python eval_wiki_auto_transformers.py --checkpoint_dir "none" --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3/checkpoint-20" \
+   --out_path "eval_results_lora_r128_70b" --mode test
+python eval_wiki_auto_transformers.py --checkpoint_dir "none" --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3/checkpoint-30" \
+   --out_path "eval_results_lora_r128_70b" --mode test
+python eval_wiki_auto_transformers.py --checkpoint_dir "none" --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3/checkpoint-40" \
+   --out_path "eval_results_lora_r128_70b" --mode test
+python eval_wiki_auto_transformers.py --checkpoint_dir "none" --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3/checkpoint-50" \
+   --out_path "eval_results_lora_r128_70b" --mode test
+python eval_wiki_auto_transformers.py --checkpoint_dir "none" --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3/checkpoint-80" \
+   --out_path "eval_results_lora_r128_70b" --mode test
+python eval_wiki_auto_transformers.py --checkpoint_dir "none" --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3/checkpoint-90" \
+   --out_path "eval_results_lora_r128_70b" --mode test
+python eval_wiki_auto_transformers.py --checkpoint_dir "none" --model_id "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3/checkpoint-97" \
+   --out_path "eval_results_lora_r128_70b" --mode test
+
+
+
+
+
+
 
 
 
