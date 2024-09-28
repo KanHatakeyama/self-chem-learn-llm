@@ -17,6 +17,18 @@ python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/lora_r_llama/1/out
     --enable_lora True --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" \
     --mode train
 
+#70b lora    
+python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3" \
+    --tensor_parallel_size 8 --out_path "eval_results_lora_full_r128_70b" \
+    --enable_lora true --model_id "meta-llama/Meta-Llama-3.1-70B-Instruct" \
+    --mode test 
+python eval_wiki_auto.py --checkpoint_dir "/data/hatakeyama/self-loop/0924split_train_test/sftlab/experiments/70b_lora_llama_all_r128/1/output3/sftlab-experiments/70b_lora_llama_all_r128/1-llama3_1_70b_lora_full_r128-zero3" \
+    --tensor_parallel_size 8 --out_path "eval_results_lora_full_r128_70b" \
+    --enable_lora true --model_id "meta-llama/meta-llama-3.1-70b-instruct" \
+    --mode train
+
+
+
 #lora with fifferent r
 conda activate llama
 export CUDA_VISIBLE_DEVICES=0

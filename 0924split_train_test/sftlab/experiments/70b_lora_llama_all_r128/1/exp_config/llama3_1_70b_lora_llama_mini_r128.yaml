@@ -13,8 +13,8 @@ data:
            add_system_message: false
      split:
        #train: 20240923wiki[:1398000]
-       train: 20240923wiki[:200000]
-       #train: 20240923wiki[:1000]
+       #train: 20240923wiki[:200000]
+       train: 20240923wiki[:1000]
        eval: 20240923wiki[1398000:]
 
   

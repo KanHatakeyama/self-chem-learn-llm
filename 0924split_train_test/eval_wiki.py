@@ -2,6 +2,11 @@
 python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-70B-Instruct" --tensor_parallel_size 8
 python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_parallel_size 1
 
+#python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-70B-Instruct" --tensor_parallel_size 8 --mode train
+python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-70B-Instruct" --tensor_parallel_size 8 --mode test
+
+
+
 conda activate llama
 
 python eval_wiki.py --model_id "meta-llama/Meta-Llama-3.1-8B-Instruct" --tensor_parallel_size 8
