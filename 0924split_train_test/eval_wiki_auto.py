@@ -228,7 +228,7 @@ for model_id in model_dir_list:
 
     # %%
 
-    ds = load_dataset("kanhatakeyama/material-properties", split="train")
+    ds = load_dataset("kanhatakeyama/material-properties", split="wiki")
     ds = ds.shuffle(seed=1)
 
     # %%
