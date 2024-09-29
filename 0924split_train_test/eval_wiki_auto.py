@@ -84,7 +84,37 @@ export CUDA_VISIBLE_DEVICES=4
  
 
 
-    
+#0930 8b, with pmc data    
+conda activate llama
+export CUDA_VISIBLE_DEVICES=0
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_5000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_10000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=1
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_20000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_50000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_100000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=2
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_5000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_10000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=3
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_20000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_50000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=4
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_5000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_10000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=5
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_20000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_50000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
 
 
 """
