@@ -27,7 +27,11 @@ data:
        train: PMC002xxxxxx_0[:100000]
        eval: PMC002xxxxxx_0[110000:]
    #pmc2
+<<<<<<< HEAD
    - name: hatakeyama-llm-team/PMC
+=======
+  - name: hatakeyama-llm-team/PMC
+>>>>>>> d2b4e79 (add control)
      preprocess:
        - name: apply_nothing
          args:
@@ -35,8 +39,13 @@ data:
            add_system_message: false
      split:
        #train: 20240923wiki[:1398000]
+<<<<<<< HEAD
        train: PMC005xxxxxx_0[:300000]
        eval: PMC005xxxxxx_0[310000:] 
+=======
+       train: PMC003xxxxxx_0[:300000]
+       eval: PMC003xxxxxx_0[310000:] 
+>>>>>>> d2b4e79 (add control)
 model:
   name: meta-llama/Meta-Llama-3.1-8B-Instruct
 
