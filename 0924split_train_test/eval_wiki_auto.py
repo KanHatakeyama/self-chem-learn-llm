@@ -116,12 +116,15 @@ export CUDA_VISIBLE_DEVICES=5
 python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_20000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_50000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 
+<<<<<<< HEAD
 #0930 8b additional
 conda activate llama
 export CUDA_VISIBLE_DEVICES=0
 python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_5000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_10000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 
+=======
+>>>>>>> e234f21 (additional train)
 
 
 """
