@@ -87,34 +87,41 @@ export CUDA_VISIBLE_DEVICES=4
 #0930 8b, with pmc data    
 conda activate llama
 export CUDA_VISIBLE_DEVICES=0
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_5000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_10000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_5000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_10000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=1
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_20000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_50000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_100000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_20000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_50000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_100000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=2
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_5000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_10000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_5000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_10000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=3
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_20000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_50000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_20000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-2_50000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=4
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_5000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_10000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_5000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_10000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
 
 conda activate llama
 export CUDA_VISIBLE_DEVICES=5
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_20000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
-python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_50000-zero1" --tensor_parallel_size 1 --mode test --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_20000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-4_50000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+
+#0930 8b additional
+conda activate llama
+export CUDA_VISIBLE_DEVICES=0
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_5000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/full_pmc/1/output3/sftlab-experiments/full_pmc/1-1_10000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_pmc"
+
 
 
 """
@@ -138,7 +145,7 @@ parser.add_argument('--checkpoint_dir', type=str,
 parser.add_argument('--tensor_parallel_size', type=int,
                     default=1, help='テンソルパラレルサイズ（デフォルトは1）')
 parser.add_argument('--mode', type=str,
-                    default="test", help='test or train')
+                    default="both", help='test or train')
 parser.add_argument('--out_path', type=str,
                     default="eval_results", help='output dir')
 parser.add_argument('--model_id', type=str,
@@ -258,45 +265,52 @@ for model_id in model_dir_list:
 
     # %%
 
-    ds = load_dataset("kanhatakeyama/material-properties", split="wiki")
-    ds = ds.shuffle(seed=1)
-
-    # %%
-
-    # %%
-    predictions = []
-    batch_size = 1000
-    train_ds = ds.select(range(7000))
-    test_ds = ds.select(range(7000, 7200))
-
-    if mode == "test":
-        target_ds = test_ds
+    if mode == "both":
+        mode_list = ["test", "train"]
     else:
-        target_ds = train_ds
+        mode_list = [mode]
+    for mode in mode_list:
+        print("mode", mode)
 
-    for i in tqdm(range(0, len(target_ds), batch_size)):
-        max_i = min(i+batch_size, len(target_ds))
-        batch = target_ds.select(range(i, max_i))
-        prompts = []
-        for record in batch:
-            prompt, actual_value = gen_problem(record)
-            prompts.append(prompt)
+        ds = load_dataset("kanhatakeyama/material-properties", split="wiki")
+        ds = ds.shuffle(seed=1)
 
-        if not enable_lora:
-            outputs = llm_gen(model, prompts)
+        # %%
+
+        # %%
+        predictions = []
+        batch_size = 1000
+        train_ds = ds.select(range(7000))
+        test_ds = ds.select(range(7000, 7200))
+
+        if mode == "test":
+            target_ds = test_ds
         else:
-            outputs = llm_gen(model, prompts, global_lora_id=global_model_count,
-                              lora_path=model_id, enable_lora=True)
-        for record, output in zip(batch, outputs):
-            predicted_value = extract_answer_from_text(output)
-            record["predicted_value"] = predicted_value
-            record["predicted_text"] = output
-            predictions.append(record)
+            target_ds = train_ds
 
-        # break
+        for i in tqdm(range(0, len(target_ds), batch_size)):
+            max_i = min(i+batch_size, len(target_ds))
+            batch = target_ds.select(range(i, max_i))
+            prompts = []
+            for record in batch:
+                prompt, actual_value = gen_problem(record)
+                prompts.append(prompt)
 
-    # %%
-    os.makedirs(out_path, exist_ok=True)
-    save_path = f"{out_path}/{model_id.replace('/','_')}_{mode}.json"
-    with open(save_path, "w") as f:
-        json.dump(predictions, f, indent=2)
+            if not enable_lora:
+                outputs = llm_gen(model, prompts)
+            else:
+                outputs = llm_gen(model, prompts, global_lora_id=global_model_count,
+                                  lora_path=model_id, enable_lora=True)
+            for record, output in zip(batch, outputs):
+                predicted_value = extract_answer_from_text(output)
+                record["predicted_value"] = predicted_value
+                record["predicted_text"] = output
+                predictions.append(record)
+
+            # break
+
+        # %%
+        os.makedirs(out_path, exist_ok=True)
+        save_path = f"{out_path}/{model_id.replace('/','_')}_{mode}.json"
+        with open(save_path, "w") as f:
+            json.dump(predictions, f, indent=2)

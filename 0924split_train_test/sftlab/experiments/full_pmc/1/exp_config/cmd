@@ -22,6 +22,30 @@ python run.py 4_20000.yaml --accelerate_config zero1.yaml
 python run.py 4_50000.yaml --accelerate_config zero1.yaml
 python run.py 4_100000.yaml --accelerate_config zero1.yaml
 
+9/30
+python run.py 0.5_5000.yaml --accelerate_config zero1.yaml
+python run.py 0.25_5000.yaml --accelerate_config zero1.yaml
+python run.py 0.5_10000.yaml --accelerate_config zero1.yaml
+python run.py 0.25_10000.yaml --accelerate_config zero1.yaml
+python run.py 0.5_20000.yaml --accelerate_config zero1.yaml
+python run.py 0.25_20000.yaml --accelerate_config zero1.yaml
+python run.py 0.5_50000.yaml --accelerate_config zero1.yaml
+python run.py 0.25_50000.yaml --accelerate_config zero1.yaml
+python run.py 0.5_100000.yaml --accelerate_config zero1.yaml
+python run.py 0.25_100000.yaml --accelerate_config zero1.yaml
+python run.py 0.5_200000.yaml --accelerate_config zero1.yaml
+python run.py 0.25_200000.yaml --accelerate_config zero1.yaml
+python run.py 1_200000.yaml --accelerate_config zero1.yaml
+python run.py 0.5_400000.yaml --accelerate_config zero1.yaml
+python run.py 0.25_400000.yaml --accelerate_config zero1.yaml
+python run.py 1_400000.yaml --accelerate_config zero1.yaml
 
+10/1
+python run.py 1_200000.yaml --accelerate_config zero1.yaml
+python run.py 1_400000.yaml --accelerate_config zero1.yaml
 
-
+python run.py 0_5000.yaml --accelerate_config zero1.yaml
+python run.py 0_10000.yaml --accelerate_config zero1.yaml
+python run.py 0_20000.yaml --accelerate_config zero1.yaml
+python run.py 0_50000.yaml --accelerate_config zero1.yaml
+python run.py 0_100000.yaml --accelerate_config zero1.yaml
