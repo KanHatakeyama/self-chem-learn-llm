@@ -1,16 +1,11 @@
-export LD_LIBRARY_PATH=/home/setup/miniconda3/envs/sft/lib/python3.11/site-packages/nvidia/nvjitlink/lib:$LD_LIBRARY_PATH
-
-
-sleep 18000 
-python run.py llama3_1_8b_3_lora.yaml --accelerate_config zero1.yaml
 
 conda activate sft
 export LD_LIBRARY_PATH=/home/hatakeyama/miniconda3/envs/sft/lib/python3.11/site-packages/nvidia/nvjitlink/lib:$LD_LIBRARY_PATH
-python run.py 10000_0.yaml --accelerate_config zero1.yaml
-python run.py 20000_0.yaml --accelerate_config zero1.yaml
-python run.py 40000_0.yaml --accelerate_config zero1.yaml
-python run.py 80000_0.yaml --accelerate_config zero1.yaml
-python run.py 160000_0.yaml --accelerate_config zero1.yaml
-python run.py 320000_0.yaml --accelerate_config zero1.yaml
-python run.py 570000_0.yaml --accelerate_config zero1.yaml
+python run.py 10000_20000.yaml --accelerate_config zero1.yaml
+python run.py 20000_20000.yaml --accelerate_config zero1.yaml
+python run.py 40000_20000.yaml --accelerate_config zero1.yaml
+python run.py 80000_20000.yaml --accelerate_config zero1.yaml
+python run.py 160000_20000.yaml --accelerate_config zero1.yaml
+python run.py 320000_20000.yaml --accelerate_config zero1.yaml
+python run.py 570000_20000.yaml --accelerate_config zero1.yaml
 

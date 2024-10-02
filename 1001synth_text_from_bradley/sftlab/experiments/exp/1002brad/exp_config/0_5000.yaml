@@ -5,7 +5,6 @@ template: #使わない
   output: <end_of_turn>\n<start_of_turn>model\n
 
 data:
-
    #pmc
    - name: hatakeyama-llm-team/PMC
      preprocess:

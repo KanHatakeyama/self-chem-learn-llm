@@ -13,9 +13,19 @@ data:
            add_system_message: false
      split:
        #train: 20241002Bradley[:1398000]
-       train: 20241002Bradley[:40000]
+       train: 20241002Bradley[:80000]
        eval: 20241002Bradley[570000:]
-
+   #pmc
+   - name: hatakeyama-llm-team/PMC
+     preprocess:
+       - name: apply_nothing
+         args:
+           messages: text
+           add_system_message: false
+     split:
+       #train: 20240923wiki[:1398000]
+       train: PMC002xxxxxx_0[:20000]
+       eval: PMC002xxxxxx_0[110000:]
 model:
   name: meta-llama/Meta-Llama-3.1-8B-Instruct
 
