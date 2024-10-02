@@ -1,0 +1,4 @@
+output_dir: output3
+hf_cache_dir: ~/.cache/huggingface/
+wandb:
+  entity: kanhatakeyamas
