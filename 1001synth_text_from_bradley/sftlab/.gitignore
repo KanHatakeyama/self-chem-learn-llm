@@ -10,3 +10,4 @@ model/
 sftlab/out_data/*
 */data/*
 0921tweet/source
+1001synth_text_from_bradley/eval_results_1002/*

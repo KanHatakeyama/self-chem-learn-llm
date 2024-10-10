@@ -9,6 +9,9 @@ python run.py 160000_20000.yaml --accelerate_config zero1.yaml
 python run.py 320000_20000.yaml --accelerate_config zero1.yaml
 python run.py 570000_20000.yaml --accelerate_config zero1.yaml
 
+
+
+
 #1003
 conda activate sft
 export LD_LIBRARY_PATH=/home/hatakeyama/miniconda3/envs/sft/lib/python3.11/site-packages/nvidia/nvjitlink/lib:$LD_LIBRARY_PATH
@@ -22,4 +25,49 @@ python run.py 320000_600000.yaml --accelerate_config zero1.yaml
 python run.py 570000_200000.yaml --accelerate_config zero1.yaml
 python run.py 570000_600000.yaml --accelerate_config zero1.yaml
 
+#restart (yamlミス)
+python run.py 160000_200000.yaml --accelerate_config zero1.yaml
+python run.py 0_200000.yaml --accelerate_config zero1.yaml
+python run.py 320000_200000.yaml --accelerate_config zero1.yaml
+python run.py 570000_200000.yaml --accelerate_config zero1.yaml
 
+
+python run.py 40000_600000.yaml --accelerate_config zero1.yaml
+python run.py 80000_600000.yaml --accelerate_config zero1.yaml
+
+#eval
+conda activate llama
+export CUDA_VISIBLE_DEVICES=0
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-0_20000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=1
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-160000_20000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=2
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-0_200000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=3
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-0_600000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=4
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-160000_600000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=5
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-320000_200000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=6
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-320000_600000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
+
+
+conda activate llama
+export CUDA_VISIBLE_DEVICES=7
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-570000_200000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
+
+export CUDA_VISIBLE_DEVICES=7
+python eval_wiki_auto.py --checkpoint_dir "sftlab/experiments/exp/1002brad/output3/sftlab-experiments/exp/1002brad-570000_600000-zero1" --tensor_parallel_size 1 --mode both --out_path "eval_results_1002"
