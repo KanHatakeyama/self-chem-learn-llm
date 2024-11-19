@@ -1,0 +1,4 @@
+conda create -n llama python=3.10 -y
+conda activate llama
+pip install vllm==0.6.1.post2
+pip transformers==4.44.2
